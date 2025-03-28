@@ -77,8 +77,11 @@ For support or more information, visit [Imagewize](https://imagewize.com).
 
 This theme includes images from the following photographers:
 
-- Photo by [Carl Barcelo](https://unsplash.com/@barcelocarl?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-doing-yoga-nqUHQkuVj3c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-
+- [Carl Barcelo](https://unsplash.com/@barcelocarl?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-doing-yoga-nqUHQkuVj3c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Toa Heftiba](https://unsplash.com/@heftiba?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/man-massaging-womans-body-a9pFSC8dTlo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Nico](https://unsplash.com/@nicobaby?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/gardener-votive-candle-on-table-8IK1OrkMzMQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Paje Victoria](https://unsplash.com/@pajevictoria?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-hot-tub-ohhEOp05h4g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Nataliya Melnychuk](https://unsplash.com/@natinati?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-blue-plastic-container-I-6Ap7JXHq8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
 

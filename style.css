@@ -21,3 +21,14 @@ Text Domain:  spa-theme
         align-self: center;
     }
 }
+
+/* Make post featured images fill their containers properly */
+.spa-post-grid .wp-block-post-featured-image {
+    width: 100%;
+}
+
+.spa-post-grid .wp-block-post-featured-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
