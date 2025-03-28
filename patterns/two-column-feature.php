@@ -3,7 +3,7 @@
  * Title: Two Column Feature
  * Slug: spa-theme/two-column-feature
  * Description: A two-column layout with a landscape image on the left and text content on the right.
- * Categories: spa-theme/features
+ * Categories: moiraine/features
  * Keywords: columns, image, text, feature, fitness
  * Viewport Width: 1200
  * Block Types: core/columns
@@ -16,7 +16,7 @@
   <!-- wp:column {"width":"50%"} -->
   <div class="wp-block-column" style="flex-basis:50%">
     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-    <figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/placeholder-landscape.jpg' ) ); ?>" alt="Spa treatment"/></figure>
+    <figure class="wp-block-image size-large is-style-rounded"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/yoga-pose.jpg' ) ); ?>" alt="Spa treatment"/></figure>
     <!-- /wp:image -->
   </div>
   <!-- /wp:column -->
