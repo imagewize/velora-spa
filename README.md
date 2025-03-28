@@ -1,16 +1,19 @@
-# Moiraine Child Theme
+# Spa & Retreat Child Theme
 
-A child theme for the [Moiraine WordPress theme](https://github.com/imagewize/moiraine), providing customized styling and color palettes while maintaining the functionality of the parent theme.
+A specialized child theme for the [Moiraine WordPress theme](https://github.com/imagewize/moiraine), providing customized styling, color palettes, and typography optimized for spa and wellness websites while maintaining the functionality of the parent theme.
 
 ## Description
 
-Moiraine Child theme extends the Moiraine theme with custom colors and styles. It's designed to give you a solid foundation for creating a unique website while leveraging all the features of the parent Moiraine theme.
+The Spa & Retreat child theme extends the Moiraine theme with custom colors and styles specifically designed for spas, wellness centers, and retreat businesses. It's crafted to give you a serene, calming foundation for creating a distinctive wellness-focused website while leveraging all the features of the parent Moiraine theme.
 
 ## Features
 
-- Custom color palette optimized for brand consistency
+- Spa & wellness-focused color palette with soothing blues and greens
+- Custom typography featuring elegant Cormorant Garamond for headings and clean Quicksand for body text
+- Pre-designed spa & wellness style variation
+- Custom block patterns specifically for spa and wellness businesses (coming soon)
 - Maintains all functionality from the parent Moiraine theme
-- Clean, minimal design with focus on content
+- Clean, tranquil design with focus on creating a relaxing user experience
 
 ## Requirements
 
@@ -21,67 +24,50 @@ Moiraine Child theme extends the Moiraine theme with custom colors and styles. I
 ## Installation
 
 1. Download and install the [parent Moiraine theme](https://github.com/imagewize/moiraine)
-2. Upload the Moiraine Child theme to your WordPress site
-3. Activate the Moiraine Child theme from the WordPress admin panel
+2. Upload the Spa & Retreat Child theme to your WordPress site
+3. Activate the Spa & Retreat Child theme from the WordPress admin panel
 
 ## Customization
 
-The theme includes a custom color palette defined in the `theme.json` file. You can further customize the theme by:
+The theme includes a custom spa-focused color palette and typography defined in the `theme.json` file and a dedicated style variation. You can further customize the theme by:
 
 - Modifying the color palette in the `theme.json` file
 - Adding custom CSS to the `style.css` file
-- Creating custom block patterns in the patterns directory
-- Adding style variations to the `styles` directory (see below)
-- Including custom fonts in the `assets/fonts` directory (see below)
+- Using the included spa & wellness block patterns (coming soon)
+- Creating additional style variations in the `styles` directory
+- Using the included custom fonts (Cormorant Garamond and Quicksand)
 
-### Adding Style Variations
+### Style Variations
 
-To create custom style variations:
+The theme comes with a pre-configured "Spa & Wellness" style variation:
+
+- **Spa & Wellness**: A soothing color palette with calming blues and greens, perfect for creating a tranquil spa website experience
+
+To create additional style variations:
 
 1. Navigate to the `styles` directory in your child theme
 2. Create a new JSON file (e.g., `my-custom-style.json`)
 3. Define your variation settings following the WordPress style variation format
 4. Your new style variation will appear in the WordPress Site Editor under "Styles"
 
-Example of a style variation file:
-```json
-{
-  "$schema": "https://schemas.wp.org/trunk/theme.json",
-  "version": 3,
-  "title": "My Custom Style",
-  "settings": {
-    "color": {
-      "palette": [
-        {
-          "slug": "primary",
-          "color": "#yourCustomColor",
-          "name": "Primary"
-        }
-        // Add more colors as needed
-      ]
-    }
-  }
-}
-```
+### Included Fonts
 
-### Adding Custom Fonts
+The theme comes with these custom fonts already configured:
 
-To add custom fonts to your theme:
+- **Cormorant Garamond**: An elegant serif font used for headings
+- **Quicksand**: A clean, modern sans-serif font used for body text
 
-1. Place your font files (woff, woff2, etc.) in the `assets/fonts` directory
-2. Add the @font-face declarations to your `style.css` file
-3. Update your `theme.json` to include the new font family
+These fonts are located in the `assets/fonts` directory and are already configured in the theme's style variation.
 
-Example @font-face declaration for style.css:
-```css
-@font-face {
-  font-family: 'Your Custom Font';
-  src: url('./assets/fonts/your-custom-font.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-```
+### Adding Block Patterns
+
+The theme will soon include custom block patterns designed specifically for spa and wellness websites, such as:
+
+- Service showcase
+- Testimonial layouts
+- Spa treatment menus
+- Booking and reservation sections
+- Wellness program highlights
 
 ## Support
 
