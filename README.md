@@ -73,6 +73,13 @@ The theme will soon include custom block patterns designed specifically for spa 
 
 For support or more information, visit [Imagewize](https://imagewize.com).
 
+## Photo Credits
+
+This theme includes images from the following photographers:
+
+- Photo by [Carl Barcelo](https://unsplash.com/@barcelocarl?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-doing-yoga-nqUHQkuVj3c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+
 ## License
 
 GNU General Public License v2 or later - http://www.gnu.org/licenses/gpl-2.0.html
