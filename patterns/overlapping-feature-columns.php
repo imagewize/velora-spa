@@ -40,6 +40,10 @@
       <!-- wp:paragraph -->
       <p><a href="#">Learn more →</a></p>
       <!-- /wp:paragraph -->
+
+      <!-- wp:spacer {"height":"50px"} -->
+    <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
     </div>
     <!-- /wp:group -->
   </div>
