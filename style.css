@@ -33,18 +33,23 @@ Text Domain:  spa-theme
     object-fit: cover;
 }
 
-/* Add a cart icon styling to the patterns/header-top-bar-centered-menu
- *  header 
-*/
+/* Add a cart icon styling to the patterns/header-top-bar-centered-menu header */
 .cart-icon {
     margin: 0 !important;
+    transition: transform 0.2s ease;
 }
 
 .cart-icon img {
     display: block;
-    filter: var(--cart-icon-color, brightness(0)); /* This makes it black by default */
+    width: 24px;
+    height: 24px;
+}
+
+.cart-icon a:hover {
+    opacity: 0.8;
 }
 
 .cart-icon a:hover img {
-    filter: var(--cart-icon-hover-color, brightness(0) sepia(100%) saturate(500%) hue-rotate(175deg)); /* This makes it your primary color on hover */
+    filter: brightness(0) sepia(100%) saturate(500%) hue-rotate(175deg);
+    transform: scale(1.1);
 }
