@@ -30,8 +30,8 @@
     <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"center"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
     <div class="wp-block-group">
         
-        <!-- wp:image {"id":123,"width":24,"height":24,"sizeSlug":"full","linkDestination":"custom","className":"cart-icon"} -->
-            <figure class="wp-block-image size-full is-resized cart-icon"><a href="#" aria-label="Shopping Cart"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/cart-icon.svg' ) ); ?>" alt="Cart" class="wp-image-123" width="24" height="24"/></a></figure>
+        <!-- wp:image {"id":123,"sizeSlug":"full","linkDestination":"custom","className":"cart-icon"} -->
+        <figure class="wp-block-image size-full cart-icon"><a href="#"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/cart-icon.png' ) ); ?>" alt="Cart" class="wp-image-123"/></a></figure>
         <!-- /wp:image -->
       
       <!-- wp:navigation {"overlayMenu":"never","icon":"user","style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"fontSize":"small","layout":{"type":"flex","orientation":"horizontal"}} -->
@@ -43,8 +43,8 @@
   </div>
   <!-- /wp:group -->
   
-  <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"flex","orientation":"horizontal","justifyContent":"center"}} -->
-  <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)">
+  <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"flex","orientation":"horizontal","justifyContent":"center"}} -->
+  <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small)">
     <!-- wp:navigation {"ref":5} /-->
   </div>
   <!-- /wp:group -->
