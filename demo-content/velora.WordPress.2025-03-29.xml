@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-03-29 05:20" -->
+	<!-- generator="WordPress/6.7.2" created="2025-03-29 06:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Sat, 29 Mar 2025 05:20:20 +0000</pubDate>
+	<pubDate>Sat, 29 Mar 2025 06:31:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -43,6 +43,12 @@
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>6</wp:term_id>
+		<wp:category_nicename><![CDATA[wellness]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[wellness]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
 		<wp:term_id>5</wp:term_id>
@@ -78,6 +84,13 @@
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wellness]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[wellness]]></wp:term_name>
 	</wp:term>
 		
 	<generator>https://wordpress.org/?v=6.7.2</generator>
@@ -659,251 +672,33 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Team Members"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Meet Our People</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Blog Post Columns","categories":["moiraine/posts"],"patternName":"moiraine/blog-post-columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false,"taxQuery":{"category":[6]}},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
 
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">A small but mighty team</h2>
-<!-- /wp:heading -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">We're a small team of diverse creators with the aim of creating the best possible WordPress products for you. Join our team today!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Team Members"},"align":"wide","layout":{"type":"grid","minimumColumnWidth":"20rem"}} -->
-<div class="wp-block-group alignwide"><!-- wp:cover {"url":"https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-2.webp","id":57,"dimRatio":50,"overlayColor":"main","isUserOverlayColor":true,"minHeight":500,"contentPosition":"bottom center","isDark":false,"metadata":{"name":"Team Member"},"className":"is-style-rounded-cover","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|medium"}},"border":{"radius":"5px"},"dimensions":{"aspectRatio":"3/4"}}} -->
-<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-center is-style-rounded-cover" style="border-radius:5px;padding-bottom:var(--wp--preset--spacing--medium);min-height:500px"><span aria-hidden="true" class="wp-block-cover__background has-main-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-57" alt="" src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-2.webp" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"textColor":"base"} -->
-<h4 class="wp-block-heading has-text-align-center has-base-color has-text-color">Tracy Capitan</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"tertiary","fontSize":"small"} -->
-<p class="has-text-align-center has-tertiary-color has-text-color has-small-font-size">Product Designer</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","align":"center","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<ul class="wp-block-social-links aligncenter has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://twitter.com","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"https://facebook.com","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://instagram.com","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:cover {"url":"https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-1.webp","id":56,"dimRatio":50,"overlayColor":"main","isUserOverlayColor":true,"minHeight":500,"contentPosition":"bottom center","isDark":false,"metadata":{"name":"Team Member"},"className":"is-style-rounded-cover","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|medium"}},"border":{"radius":"5px"},"dimensions":{"aspectRatio":"3/4"}}} -->
-<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-center is-style-rounded-cover" style="border-radius:5px;padding-bottom:var(--wp--preset--spacing--medium);min-height:500px"><span aria-hidden="true" class="wp-block-cover__background has-main-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-56" alt="" src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-1.webp" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"textColor":"base"} -->
-<h4 class="wp-block-heading has-text-align-center has-base-color has-text-color">Michael Glacier</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"tertiary","fontSize":"small"} -->
-<p class="has-text-align-center has-tertiary-color has-text-color has-small-font-size">Product Designer</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","align":"center","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<ul class="wp-block-social-links aligncenter has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://twitter.com","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"https://facebook.com","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://instagram.com","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:cover {"url":"https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-3.webp","id":33154,"dimRatio":50,"overlayColor":"main","isUserOverlayColor":true,"minHeight":500,"contentPosition":"bottom center","isDark":false,"metadata":{"name":"Team Member"},"className":"is-style-rounded-cover","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|medium"}},"border":{"radius":"5px"},"dimensions":{"aspectRatio":"3/4"}}} -->
-<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-center is-style-rounded-cover" style="border-radius:5px;padding-bottom:var(--wp--preset--spacing--medium);min-height:500px"><span aria-hidden="true" class="wp-block-cover__background has-main-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-33154" alt="" src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-3.webp" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"textColor":"base"} -->
-<h4 class="wp-block-heading has-text-align-center has-base-color has-text-color">Maryann Alpine</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"tertiary","fontSize":"small"} -->
-<p class="has-text-align-center has-tertiary-color has-text-color has-small-font-size">Product Designer</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","align":"center","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<ul class="wp-block-social-links aligncenter has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://twitter.com","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"https://facebook.com","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://instagram.com","service":"instagram"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover --></div>
+<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Big Text Features"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|large"}},"backgroundColor":"primary","textColor":"base","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-color has-primary-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Feature Grid"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","minimumColumnWidth":"24rem"}} -->
-<div class="wp-block-group alignwide"><!-- wp:group {"metadata":{"name":"Feature"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">50+ Patterns</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"primary-accent"} -->
-<p class="has-primary-accent-color has-text-color">Moiraine ships with over 50 pixel-perfect pattern designs you can use to build a stunning website with a few clicks.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Feature"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">5+ Layouts</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"primary-accent"} -->
-<p class="has-primary-accent-color has-text-color">Moiraine ships with several full page designs such as Homepage, About, Features, Download, and more.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Feature"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">1000+ Hours</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"primary-accent"} -->
-<p class="has-primary-accent-color has-text-color">We've spent thousands of hours crafting WordPress themes and applied everything we know to Moiraine.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Feature"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">200+ Ratings</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"textColor":"primary-accent"} -->
-<p class="has-primary-accent-color has-text-color">Moiraine boasts over two hundred 5 star reviews and an average rating of 9 on Rotten Tomatoes.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Job Openings"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|x-large"}},"layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">We're Hiring</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Let's work together!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">We're currently hiring for several different roles. All of our positions are remote flexible and our salaries are above competitive in the industry.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Job Openings"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-tertiary-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Entry"},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
-<p style="font-style:normal;font-weight:600">Product Designer</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"textColor":"secondary","fontSize":"small","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-secondary-color has-text-color has-small-font-size"><!-- wp:paragraph -->
-<p>Full Time · Remote</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-button-light"} -->
-<div class="wp-block-button is-style-button-light"><a class="wp-block-button__link wp-element-button">Apply →</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"main-accent"} -->
-<hr class="wp-block-separator has-text-color has-main-accent-color has-alpha-channel-opacity has-main-accent-background-color has-background is-style-separator-dotted" />
-<!-- /wp:separator --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
-<p style="font-style:normal;font-weight:600">Software Engineer</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Full Time · Remote</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-button-light"} -->
-<div class="wp-block-button is-style-button-light"><a class="wp-block-button__link wp-element-button">Apply →</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"main-accent"} -->
-<hr class="wp-block-separator has-text-color has-main-accent-color has-alpha-channel-opacity has-main-accent-background-color has-background is-style-separator-dotted" />
-<!-- /wp:separator --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
-<p style="font-style:normal;font-weight:600">Principal Engineer</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Full Time · San Francisco</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-button-light"} -->
-<div class="wp-block-button is-style-button-light"><a class="wp-block-button__link wp-element-button">Apply →</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"main-accent"} -->
-<hr class="wp-block-separator has-text-color has-main-accent-color has-alpha-channel-opacity has-main-accent-background-color has-background is-style-separator-dotted" />
-<!-- /wp:separator --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
-<p style="font-style:normal;font-weight:600">Marketing Manager</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Part Time · Remote</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-button-light"} -->
-<div class="wp-block-button is-style-button-light"><a class="wp-block-button__link wp-element-button">Apply →</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-18 03:29:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-03-18 03:29:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-29 02:50:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-29 02:50:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 06:26:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 06:26:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wellness]]></wp:post_name>
@@ -1441,92 +1236,6 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Relax & Rejuvenate with a Massage at Velora Spa]]></title>
-		<link>http://demo.imagewize.test/spa/relax-and-rejuvenate-with-a-massage-at-velora-spa/</link>
-		<pubDate>Fri, 28 Mar 2025 06:08:59 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=64</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
-<p>Escape the stresses of daily life and indulge in a massage experience like no other at Velora Spa &amp; Retreat. Our skilled therapists blend soothing techniques with premium oils to melt away tension and revitalize your body and mind.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p>Whether you’re seeking deep tissue relief, a calming aromatherapy massage, or a gentle Swedish massage, we have the perfect treatment to suit your needs. Let us help you unwind and find your inner balance.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p>Book your massage at Velora Spa &amp; Retreat today and feel the difference!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-28 06:08:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-28 06:08:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-28 06:08:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-28 06:08:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[relax-and-rejuvenate-with-a-massage-at-velora-spa]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Enhance Your Experience with Sea Salt &amp; Scented Candles]]></title>
-		<link>http://demo.imagewize.test/spa/enhance-your-experience-with-sea-salt-scented-candles/</link>
-		<pubDate>Fri, 28 Mar 2025 06:11:52 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=67</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
-<p>At Velora Spa &amp; Retreat, we believe that the little touches make a big difference. That’s why we use premium sea salt and scented candles to elevate your relaxation experience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p>Our mineral-rich sea salt scrubs gently exfoliate the skin, leaving it soft, smooth, and rejuvenated. Paired with the calming glow and soothing aromas of our scented candles, you’ll feel your stress melt away as you unwind in pure bliss.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p>Visit Velora Spa &amp; Retreat and let our thoughtfully curated ambiance transport you to a state of tranquility.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-28 06:11:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-28 06:11:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-28 06:11:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-28 06:11:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[enhance-your-experience-with-sea-salt-scented-candles]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[68]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[sea-salt-and-candle]]></title>
 		<link>http://demo.imagewize.test/spa/enhance-your-experience-with-sea-salt-scented-candles/sea-salt-and-candle/</link>
 		<pubDate>Fri, 28 Mar 2025 06:10:29 +0000</pubDate>
@@ -1710,6 +1419,72 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[woman-in-bed]]></title>
+		<link>http://demo.imagewize.test/spa/meditation-for-all/woman-in-bed/</link>
+		<pubDate>Sat, 29 Mar 2025 05:48:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/03/woman-in-bed.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>175</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 05:48:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 05:48:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 05:48:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 05:48:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woman-in-bed]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>172</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/03/woman-in-bed.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/03/woman-in-bed.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:24:"2025/03/woman-in-bed.jpg";s:8:"filesize";i:400632;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"woman-in-bed-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18456;}s:5:"large";a:5:{s:4:"file";s:25:"woman-in-bed-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104878;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"woman-in-bed-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10860;}s:12:"medium_large";a:5:{s:4:"file";s:24:"woman-in-bed-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67783;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[power-foods]]></title>
+		<link>http://demo.imagewize.test/spa/power-foods/power-foods/</link>
+		<pubDate>Sat, 29 Mar 2025 06:25:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/03/power-foods.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 06:25:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 06:25:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 06:25:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 06:25:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[power-foods]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>190</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/03/power-foods.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/03/power-foods.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1079;s:4:"file";s:23:"2025/03/power-foods.jpg";s:8:"filesize";i:607541;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:23:"power-foods-300x216.jpg";s:5:"width";i:300;s:6:"height";i:216;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24174;}s:5:"large";a:5:{s:4:"file";s:24:"power-foods-1024x737.jpg";s:5:"width";i:1024;s:6:"height";i:737;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152862;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"power-foods-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12128;}s:12:"medium_large";a:5:{s:4:"file";s:23:"power-foods-768x552.jpg";s:5:"width";i:768;s:6:"height";i:552;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96990;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>http://demo.imagewize.test/spa/navigation/</link>
 		<pubDate>Thu, 27 Mar 2025 08:36:17 +0000</pubDate>
@@ -1815,6 +1590,92 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 										<category domain="wp_theme" nicename="spa-theme"><![CDATA[spa-theme]]></category>
 						</item>
 					<item>
+		<title><![CDATA[Relax & Rejuvenate with a Massage at Velora Spa]]></title>
+		<link>http://demo.imagewize.test/spa/relax-and-rejuvenate-with-a-massage-at-velora-spa/</link>
+		<pubDate>Fri, 28 Mar 2025 06:08:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=64</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>Escape the stresses of daily life and indulge in a massage experience like no other at Velora Spa &amp; Retreat. Our skilled therapists blend soothing techniques with premium oils to melt away tension and revitalize your body and mind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Whether you’re seeking deep tissue relief, a calming aromatherapy massage, or a gentle Swedish massage, we have the perfect treatment to suit your needs. Let us help you unwind and find your inner balance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Book your massage at Velora Spa &amp; Retreat today and feel the difference!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-28 06:08:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-28 06:08:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-28 06:08:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-28 06:08:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[relax-and-rejuvenate-with-a-massage-at-velora-spa]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[62]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Enhance Your Experience with Sea Salt &amp; Scented Candles]]></title>
+		<link>http://demo.imagewize.test/spa/enhance-your-experience-with-sea-salt-scented-candles/</link>
+		<pubDate>Fri, 28 Mar 2025 06:11:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=67</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>At Velora Spa &amp; Retreat, we believe that the little touches make a big difference. That’s why we use premium sea salt and scented candles to elevate your relaxation experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Our mineral-rich sea salt scrubs gently exfoliate the skin, leaving it soft, smooth, and rejuvenated. Paired with the calming glow and soothing aromas of our scented candles, you’ll feel your stress melt away as you unwind in pure bliss.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Visit Velora Spa &amp; Retreat and let our thoughtfully curated ambiance transport you to a state of tranquility.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-28 06:11:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-28 06:11:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-28 06:11:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-28 06:11:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[enhance-your-experience-with-sea-salt-scented-candles]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[68]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Top Right Navigation]]></title>
 		<link>http://demo.imagewize.test/spa/navigation-copy/</link>
 		<pubDate>Sat, 29 Mar 2025 02:24:25 +0000</pubDate>
@@ -1838,6 +1699,174 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Meditation for All]]></title>
+		<link>http://demo.imagewize.test/spa/meditation-for-all/</link>
+		<pubDate>Sat, 29 Mar 2025 05:46:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=172</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In today’s fast-paced world, finding a moment of peace can feel almost impossible. We’re constantly bombarded with notifications, deadlines, and responsibilities, leaving little room for self-care. However, meditation offers a simple, effective way to reclaim a sense of calm and balance—no matter who you are or what your daily life looks like.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Why Meditation Matters</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Meditation isn’t just for monks or wellness gurus—it’s for everyone. Whether you’re a busy professional, a parent juggling family and work, or someone looking to manage stress better, meditation can be a valuable tool. Regular practice can help reduce anxiety, improve concentration, and even boost your overall well-being.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Getting Started: It’s Easier Than You Think</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the biggest misconceptions about meditation is that it requires hours of practice or complete silence. In reality, even just a few minutes a day can make a significant difference. Start small—sit comfortably, close your eyes, and focus on your breath. When your mind wanders (and it will), gently bring your attention back to your breathing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Finding Your Style</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There’s no one-size-fits-all approach to meditation. Some people find peace through guided sessions with calming music, while others prefer silence or focusing on a mantra. Mindfulness meditation, loving-kindness meditation, and body scan techniques are great starting points. Experiment to see what works best for you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Breaking Down Barriers</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Often, people feel intimidated by meditation because they think they’re not doing it right. Remember, there’s no “perfect” way to meditate. The goal is not to clear your mind completely but to be present and aware of your thoughts without judgment. Give yourself permission to practice without pressure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Making Meditation a Habit</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Incorporating meditation into your daily routine can be as simple as dedicating five minutes each morning or winding down before bed. Use apps like Headspace or Calm to guide you, or simply practice on your own. The key is consistency—regular practice, no matter how brief, leads to long-term benefits.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Final Thoughts: Embrace the Journey</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Meditation is a journey, not a destination. It’s about finding moments of peace amidst the chaos and giving yourself space to breathe and reflect. Whether you’re new to meditation or looking to deepen your practice, remember: it’s all about progress, not perfection. Start small, be kind to yourself, and let meditation become a part of your everyday life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ready to give it a try? Set aside just a few minutes today and see how it feels. You might be surprised at the difference it makes.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>172</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 05:46:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 05:46:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 05:48:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 05:48:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[meditation-for-all]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="wellness"><![CDATA[wellness]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[175]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Power Foods]]></title>
+		<link>http://demo.imagewize.test/spa/power-foods/</link>
+		<pubDate>Sat, 29 Mar 2025 06:25:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=190</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Power Foods: Boost Your Energy and Well-Being</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In today’s fast-paced world, maintaining high energy levels and overall well-being is essential. Power foods—nutrient-dense ingredients packed with vitamins, minerals, and antioxidants—can help you feel more energized and support optimal health.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">What Are Power Foods?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Power foods are natural, whole foods that provide a concentrated dose of essential nutrients. Unlike processed snacks, they offer long-lasting energy and help reduce inflammation, support the immune system, and promote overall vitality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Top Power Foods to Include in Your Diet</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Leafy Greens (Spinach, Kale)</strong> - Rich in iron, calcium, and antioxidants, these greens support heart health and combat fatigue.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Berries (Blueberries, Strawberries)</strong> - Packed with vitamins and antioxidants, they aid in brain function and reduce oxidative stress.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Nuts and Seeds (Almonds, Chia Seeds)</strong> - Full of healthy fats and protein, they stabilize blood sugar and provide sustained energy.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Whole Grains (Quinoa, Oats)</strong> - High in fiber and complex carbohydrates, these grains keep you fuller for longer and maintain energy levels.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Fatty Fish (Salmon, Mackerel)</strong> - Rich in omega-3 fatty acids, they promote brain health and reduce inflammation.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Incorporating Power Foods into Your Diet</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Start your day with a bowl of oatmeal topped with berries and chia seeds. For lunch, opt for a quinoa salad with spinach, cherry tomatoes, and grilled salmon. Snack on a handful of almonds when you need a quick energy boost.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Final Thoughts</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Incorporating power foods into your diet can significantly impact your energy, mental clarity, and overall health. By choosing nutrient-dense options, you nourish your body while staying vibrant and productive throughout the day.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 06:25:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 06:25:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 06:25:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 06:25:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[power-foods]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="wellness"><![CDATA[wellness]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[191]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
