@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-03-29 04:43" -->
+	<!-- generator="WordPress/6.7.2" created="2025-03-29 05:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Sat, 29 Mar 2025 04:43:32 +0000</pubDate>
+	<pubDate>Sat, 29 Mar 2025 05:20:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -81,6 +81,14 @@
 	</wp:term>
 		
 	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>http://demo.imagewize.test/app/uploads/sites/2/2025/03/cropped-favicon-32x32.png</url>
+	<title>Velora</title>
+	<link>http://demo.imagewize.test/spa</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 		<item>
 		<title><![CDATA[Nourish Your Skin with Our Luxurious Facial Cream]]></title>
@@ -644,31 +652,6 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://demo.imagewize.test/spa/wp-global-styles-moiraine/</link>
-		<pubDate>Tue, 18 Mar 2025 03:13:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://moiraine-demo.test/?p=7</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version":3,"isGlobalStylesUserThemeJSON":true}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-18 03:13:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-18 03:13:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-18 03:13:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-18 03:13:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-moiraine]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="moiraine"><![CDATA[moiraine]]></category>
-						</item>
 					<item>
 		<title><![CDATA[Wellness]]></title>
 		<link>http://demo.imagewize.test/spa/wellness/</link>
@@ -1326,31 +1309,6 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://demo.imagewize.test/spa/wp-global-styles-moiraine-child/</link>
-		<pubDate>Thu, 27 Mar 2025 08:39:49 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/salon/2025/03/27/wp-global-styles-moiraine-child/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-27 08:39:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-27 08:39:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-27 08:39:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-27 08:39:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-moiraine-child]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="moiraine-child"><![CDATA[moiraine-child]]></category>
-						</item>
-					<item>
 		<title><![CDATA[yoga-pose]]></title>
 		<link>http://demo.imagewize.test/spa/home/yoga-pose/</link>
 		<pubDate>Fri, 28 Mar 2025 04:00:20 +0000</pubDate>
@@ -1682,6 +1640,76 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[favicon]]></title>
+		<link>http://demo.imagewize.test/spa/favicon/</link>
+		<pubDate>Sat, 29 Mar 2025 05:19:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/03/favicon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 05:19:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 05:19:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 05:19:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 05:19:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[favicon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/03/favicon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/03/favicon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:24;s:6:"height";i:24;s:4:"file";s:19:"2025/03/favicon.png";s:8:"filesize";i:1995;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-favicon.png]]></title>
+		<link>http://demo.imagewize.test/spa/favicon/cropped-favicon-png/</link>
+		<pubDate>Sat, 29 Mar 2025 05:19:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/03/cropped-favicon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/03/cropped-favicon.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>170</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 05:19:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 05:19:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 05:19:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 05:19:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-favicon-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>169</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/03/cropped-favicon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/03/cropped-favicon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:27:"2025/03/cropped-favicon.png";s:8:"filesize";i:26734;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:27:"cropped-favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14150;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"cropped-favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5804;}s:13:"site_icon-270";a:5:{s:4:"file";s:27:"cropped-favicon-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11919;}s:13:"site_icon-192";a:5:{s:4:"file";s:27:"cropped-favicon-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7648;}s:13:"site_icon-180";a:5:{s:4:"file";s:27:"cropped-favicon-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7120;}s:12:"site_icon-32";a:5:{s:4:"file";s:25:"cropped-favicon-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:773;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>http://demo.imagewize.test/spa/navigation/</link>
 		<pubDate>Thu, 27 Mar 2025 08:36:17 +0000</pubDate>
@@ -1711,6 +1739,56 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://demo.imagewize.test/spa/wp-global-styles-moiraine/</link>
+		<pubDate>Tue, 18 Mar 2025 03:13:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://moiraine-demo.test/?p=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version":3,"isGlobalStylesUserThemeJSON":true}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-18 03:13:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-18 03:13:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-18 03:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-18 03:13:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-moiraine]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="moiraine"><![CDATA[moiraine]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://demo.imagewize.test/spa/wp-global-styles-moiraine-child/</link>
+		<pubDate>Thu, 27 Mar 2025 08:39:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/salon/2025/03/27/wp-global-styles-moiraine-child/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-27 08:39:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-27 08:39:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-27 08:39:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-27 08:39:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-moiraine-child]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="moiraine-child"><![CDATA[moiraine-child]]></category>
+						</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>http://demo.imagewize.test/spa/wp-global-styles-spa-theme/</link>
