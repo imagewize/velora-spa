@@ -32,3 +32,24 @@ Text Domain:  spa-theme
     height: auto;
     object-fit: cover;
 }
+
+/* Add a cart icon styling to the patterns/header-top-bar-centered-menu header */
+.cart-icon {
+    margin: 0 !important;
+    transition: transform 0.2s ease;
+}
+
+.cart-icon img {
+    display: block;
+    width: 24px;
+    height: 24px;
+}
+
+.cart-icon a:hover {
+    opacity: 0.8;
+}
+
+.cart-icon a:hover img {
+    filter: brightness(0) sepia(100%) saturate(500%) hue-rotate(175deg);
+    transform: scale(1.1);
+}
