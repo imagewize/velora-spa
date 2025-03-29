@@ -84,7 +84,8 @@ This theme includes images from the following photographers:
 - [Nataliya Melnychuk](https://unsplash.com/@natinati?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-blue-plastic-container-I-6Ap7JXHq8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Kristina Petrick](https://unsplash.com/@dayinmydreams?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-lying-on-bed-with-white-siberian-husky-TYXCnTHDqHk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Brooke Lark](https://unsplash.com/@brookelark?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-      q
+- [Florencia Potter](https://unsplash.com/@florenciapotter?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-salt-on-glass-jar-UH1ewTC9HTk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 ## License
 
 GNU General Public License v2 or later - http://www.gnu.org/licenses/gpl-2.0.html
