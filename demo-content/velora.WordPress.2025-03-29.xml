@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-03-29 06:31" -->
+	<!-- generator="WordPress/6.7.2" created="2025-03-29 07:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Sat, 29 Mar 2025 06:31:30 +0000</pubDate>
+	<pubDate>Sat, 29 Mar 2025 07:54:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -340,31 +340,59 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns {"metadata":{"categories":["spa-theme/features"],"patternName":"spa-theme/two-column-feature","name":"Two Column Feature"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}}} -->
-<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
+		<content:encoded><![CDATA[<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/overlapping-feature-columns","name":"Overlapping Feature Columns"},"align":"wide","className":"is-style-overlap-columns","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
+<div class="wp-block-columns alignwide is-style-overlap-columns" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
 <figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/yoga-pose.jpg" alt="Spa treatment"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"50%","style":{"spacing":{"padding":{"top":"2rem","left":"2rem"}}}} -->
-<div class="wp-block-column" style="padding-top:2rem;padding-left:2rem;flex-basis:50%"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">Fitness</p>
+<!-- wp:column {"width":"50%","className":"overlap-column"} -->
+<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"primary-alt"} -->
+<div class="wp-block-group has-box-shadow has-primary-alt-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">Wellness</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"style":{"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}}},"fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-heading-font-family" style="margin-top:0.5rem;margin-bottom:1.5rem">Build a Stronger Core with Us</h2>
+<!-- wp:heading {"style":{"typography":{"fontFamily":"var:preset|font-family|cormorant-garamond"},"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}}}} -->
+<h2 class="wp-block-heading" style="margin-top:0.5rem;margin-bottom:1.5rem;font-family:var(--wp--preset--font-family--cormorant-garamond)">Discover Inner Peace Through Movement</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Discover our specialized core-building program designed to enhance your strength, improve posture, and promote overall wellness through mindful movement and targeted exercises.</p>
+<p>Our holistic approach combines movement, mindfulness, and expert guidance to help you achieve balance in body and mind. Experience the transformation with our specialized programs.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="#">Read more →</a></p>
-<!-- /wp:paragraph --></div>
+<p><a href="#">Learn more →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
+
+<!-- wp:group {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/four-column-wellness-posts","name":"Four Column Wellness Posts"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"layout":{"type":"constrained","contentSize":"1400px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"spacing":{"margin":{"bottom":"3rem"}}},"fontSize":"x-large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-align-center has-heading-font-family has-x-large-font-size" style="margin-bottom:3rem;font-style:normal;font-weight:600">Wellness</h2>
+<!-- /wp:heading -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"4","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template {"className":"spa-post-grid","layout":{"type":"grid","columnCount":4}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"1.5rem"}}}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:1.5rem"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/4","height":"290px"} /-->
+
+<!-- wp:post-date {"style":{"spacing":{"margin":{"top":"1rem","bottom":"0.5rem"}},"typography":{"fontStyle":"normal","fontWeight":"500"},"color":{"text":"var:preset|color|primary"}},"fontSize":"small"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontWeight":"600"}},"fontSize":"medium","fontFamily":"cormorant-garamond"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Blog Post Columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}}} -->
@@ -592,65 +620,77 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:query --></div>
 <!-- /wp:group -->
 
-<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/overlapping-feature-columns","name":"Overlapping Feature Columns"},"align":"wide","className":"is-style-overlap-columns","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns alignwide is-style-overlap-columns" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/yoga-pose.jpg" alt="Spa treatment"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%","className":"overlap-column"} -->
-<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"primary-alt"} -->
-<div class="wp-block-group has-box-shadow has-primary-alt-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">Wellness</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontFamily":"var:preset|font-family|cormorant-garamond"},"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}}}} -->
-<h2 class="wp-block-heading" style="margin-top:0.5rem;margin-bottom:1.5rem;font-family:var(--wp--preset--font-family--cormorant-garamond)">Discover Inner Peace Through Movement</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Our holistic approach combines movement, mindfulness, and expert guidance to help you achieve balance in body and mind. Experience the transformation with our specialized programs.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Learn more →</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/four-column-wellness-posts","name":"Four Column Wellness Posts"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"layout":{"type":"constrained","contentSize":"1400px"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"spacing":{"margin":{"bottom":"3rem"}}},"fontSize":"x-large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-align-center has-heading-font-family has-x-large-font-size" style="margin-bottom:3rem;font-style:normal;font-weight:600">Wellness</h2>
+<!-- wp:group {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/shop-overview-three-columns","name":"Shop Overview Three Columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"},"margin":{"top":"0"}}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--large)">Shop</h2>
 <!-- /wp:heading -->
 
-<!-- wp:query {"queryId":1,"query":{"perPage":"4","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
-<div class="wp-block-query"><!-- wp:post-template {"className":"spa-post-grid","layout":{"type":"grid","columnCount":4}} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"1.5rem"}}}} -->
-<div class="wp-block-group" style="padding-top:0;padding-bottom:1.5rem"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/4","height":"290px"} /-->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|large","left":"var:preset|spacing|large"},"margin":{"bottom":"var:preset|spacing|large"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-bottom:var(--wp--preset--spacing--large)"><!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"width":"0px","style":"none"}}} -->
+<div class="wp-block-column" style="border-style:none;border-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"5px","width":"0px","style":"none"}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-style:none;border-width:0px;border-radius:5px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"width":"300px","height":"400px","align":"center","style":{"border":{"radius":"5px"}}} -->
+<figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/shop/serum.jpg" alt="Product 1" style="border-radius:5px;width:300px;height:400px"/></figure>
+<!-- /wp:image -->
 
-<!-- wp:post-date {"style":{"spacing":{"margin":{"top":"1rem","bottom":"0.5rem"}},"typography":{"fontStyle":"normal","fontWeight":"500"},"color":{"text":"var:preset|color|primary"}},"fontSize":"small"} /-->
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|x-small"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--x-small)">Essential Serum</h3>
+<!-- /wp:heading -->
 
-<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontWeight":"600"}},"fontSize":"medium","fontFamily":"cormorant-garamond"} /--></div>
-<!-- /wp:group -->
-<!-- /wp:post-template --></div>
-<!-- /wp:query --></div>
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600"}},"textColor":"primary"} -->
+<p class="has-text-align-center has-primary-color has-text-color" style="font-weight:600">$24.99</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"width":"0px","style":"none"}}} -->
+<div class="wp-block-column" style="border-style:none;border-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"5px","width":"0px","style":"none"}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-style:none;border-width:0px;border-radius:5px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"width":"300px","height":"400px","align":"center","style":{"border":{"radius":"5px"}}} -->
+<figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/shop/bath-salt.jpg" alt="Product 2" style="border-radius:5px;width:300px;height:400px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|x-small"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--x-small)">Bath Salts</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600"}},"textColor":"primary"} -->
+<p class="has-text-align-center has-primary-color has-text-color" style="font-weight:600">$19.99</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"width":"0px","style":"none"}}} -->
+<div class="wp-block-column" style="border-style:none;border-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"5px","width":"0px","style":"none"}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-style:none;border-width:0px;border-radius:5px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"width":"300px","height":"400px","align":"center","style":{"border":{"radius":"5px"}}} -->
+<figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/shop/massage-oil.jpg" alt="Product 3" style="border-radius:5px;width:300px;height:400px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|x-small"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--x-small)">Massage Oil</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600"}},"textColor":"primary"} -->
+<p class="has-text-align-center has-primary-color has-text-color" style="font-weight:600">$29.99</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"5px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="border-radius:5px">Shop Now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-18 03:13:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-03-18 03:13:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-28 08:50:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-28 08:50:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 07:54:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 07:54:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
