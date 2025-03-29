@@ -85,6 +85,8 @@ This theme includes images from the following photographers:
 - [Kristina Petrick](https://unsplash.com/@dayinmydreams?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-lying-on-bed-with-white-siberian-husky-TYXCnTHDqHk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Brooke Lark](https://unsplash.com/@brookelark?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Florencia Potter](https://unsplash.com/@florenciapotter?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-salt-on-glass-jar-UH1ewTC9HTk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Jonathan Ocampo](https://unsplash.com/@johnophoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/oil-dispenser-bottle-iCgfwfqgdzo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Mathilde Langevin](https://unsplash.com/@mathildelangevin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-black-glass-bottle-FDRaYqiTY1k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
 

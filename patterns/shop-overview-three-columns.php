@@ -27,11 +27,11 @@
         <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"5px","width":"0px","style":"none"}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
         <div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;border-style:none;border-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
             <!-- wp:image {"align":"center","width":300,"height":400,"style":{"border":{"radius":"5px"}}} -->
-            <figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/placeholder-portrait.jpg' ) ); ?>" alt="Product 1" style="border-radius:5px" width="300" height="400"/></figure>
+            <figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/shop/serum.jpg' ) ); ?>" alt="Product 1" style="border-radius:5px" width="300" height="400"/></figure>
             <!-- /wp:image -->
             
             <!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|x-small"}}}} -->
-            <h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--x-small)">Essential Oils</h3>
+            <h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--x-small)">Essential Serum</h3>
             <!-- /wp:heading -->
             
             <!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600"}},"textColor":"primary"} -->
@@ -67,7 +67,7 @@
         <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}},"border":{"radius":"5px","width":"0px","style":"none"}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
         <div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;border-style:none;border-width:0px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
             <!-- wp:image {"align":"center","width":300,"height":400,"style":{"border":{"radius":"5px"}}} -->
-            <figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/placeholder-portrait.jpg' ) ); ?>" alt="Product 3" style="border-radius:5px" width="300" height="400"/></figure>
+            <figure class="wp-block-image aligncenter is-resized has-custom-border"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/shop/massage-oil.jpg' ) ); ?>" alt="Product 3" style="border-radius:5px" width="300" height="400"/></figure>
             <!-- /wp:image -->
             
             <!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|x-small"}}}} -->
