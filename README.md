@@ -82,7 +82,9 @@ This theme includes images from the following photographers:
 - [Nico](https://unsplash.com/@nicobaby?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/gardener-votive-candle-on-table-8IK1OrkMzMQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Paje Victoria](https://unsplash.com/@pajevictoria?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-hot-tub-ohhEOp05h4g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Nataliya Melnychuk](https://unsplash.com/@natinati?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-blue-plastic-container-I-6Ap7JXHq8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-
+- [Kristina Petrick](https://unsplash.com/@dayinmydreams?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-lying-on-bed-with-white-siberian-husky-TYXCnTHDqHk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Brooke Lark](https://unsplash.com/@brookelark?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-and-red-cherries-on-white-bowl-nTZOILVZuOg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      q
 ## License
 
 GNU General Public License v2 or later - http://www.gnu.org/licenses/gpl-2.0.html
