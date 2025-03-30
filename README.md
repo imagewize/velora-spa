@@ -87,6 +87,9 @@ This theme includes images from the following photographers:
 - [Florencia Potter](https://unsplash.com/@florenciapotter?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-salt-on-glass-jar-UH1ewTC9HTk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Jonathan Ocampo](https://unsplash.com/@johnophoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/oil-dispenser-bottle-iCgfwfqgdzo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Mathilde Langevin](https://unsplash.com/@mathildelangevin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-black-glass-bottle-FDRaYqiTY1k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Kadarius Seegars](https://unsplash.com/@kseegars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/clear-glass-bottle-on-white-wooden-round-table-Mxy5gokl8mE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Rowan Freeman](https://unsplash.com/@rowanfreeman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-glass-bottle-showing-back-content-4u9LSRrZusc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      
 
 ## License
 
