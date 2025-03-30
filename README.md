@@ -111,7 +111,9 @@ This theme includes images from the following photographers:
 - [Mathilde Langevin](https://unsplash.com/@mathildelangevin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-black-glass-bottle-FDRaYqiTY1k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Kadarius Seegars](https://unsplash.com/@kseegars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/clear-glass-bottle-on-white-wooden-round-table-Mxy5gokl8mE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Rowan Freeman](https://unsplash.com/@rowanfreeman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-glass-bottle-showing-back-content-4u9LSRrZusc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-      
+- [Diana Light](https://unsplash.com/@dreamcatchlight?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-and-brown-wooden-rolling-pin-pBBxMUCgwuU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Jernej Graj](https://unsplash.com/@jernejgraj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/floating-woman-on-body-of-water-rlNibgIqi4o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Yonas Bekele](https://unsplash.com/@ybekele?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-on-sidewalk-during-daytime-B4NW2Fk3Bkk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
 
