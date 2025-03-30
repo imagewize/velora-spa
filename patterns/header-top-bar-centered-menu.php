@@ -29,10 +29,6 @@
     
     <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"center"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
     <div class="wp-block-group">
-        
-        <!-- wp:image {"sizeSlug":"full","linkDestination":"custom","className":"cart-icon"} -->
-        <figure class="wp-block-image size-full cart-icon"><a href="#"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/cart-icon.png' ) ); ?>" alt="Cart"/></a></figure>
-        <!-- /wp:image -->
       
       <!-- wp:navigation {"overlayMenu":"never","icon":"user","style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"fontSize":"small","layout":{"type":"flex","orientation":"horizontal"}} -->
       <!-- wp:navigation-link {"label":"Login","url":"#","kind":"custom","isTopLevelLink":true} /-->
