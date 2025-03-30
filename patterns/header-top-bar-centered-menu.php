@@ -31,7 +31,7 @@
     <div class="wp-block-group">
       
       <!-- wp:navigation {"overlayMenu":"never","icon":"user","style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"fontSize":"small","layout":{"type":"flex","orientation":"horizontal"}} -->
-      <!-- wp:navigation-link {"label":"Login","url":"#","kind":"custom","isTopLevelLink":true} /-->
+      <!-- wp:navigation-link {"label":"","url":"#","kind":"custom","isTopLevelLink":true} /-->
       <!-- /wp:navigation -->
     </div>
     <!-- /wp:group -->
