@@ -43,7 +43,7 @@ The included demo content file `demo-content/velora.WordPress.2025-03-30.xml` co
    - Payment methods
    - Shipping options
 
-Additionally, there is a CSV product import file available at `demo-content/spa-retreat-products.csv`. Note that while product images for this import are included in the theme's `assets/images/shop` directory, the current CSV file's image references do not match. You'll need to manually replace them with the correct images after import.
+Additionally, there is a CSV product import file available at `demo-content/spa-retreat-products.csv`. Note that while product images for this import are included in the theme's `assets/images/shop` directory, the current CSV file's image references do not match. You'll need to manually replace them with the correct images after import. Also if you used the XML for full import you do _not_ need this `.csv` file.
 
 Some WooCommerce settings are not included in the export and must be configured manually to match your specific requirements.
 
