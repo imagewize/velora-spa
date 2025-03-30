@@ -27,6 +27,28 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 2. Upload the Spa & Retreat Child theme to your WordPress site
 3. Activate the Spa & Retreat Child theme from the WordPress admin panel
 
+## Demo Content
+
+The theme includes demo content to help you get started quickly:
+
+### WooCommerce Demo Products
+
+The included demo content file `demo-content/velora.WordPress.2025-03-30.xml` contains WooCommerce products and related data. To use this demo content:
+
+1. Install and activate the [WooCommerce plugin](https://wordpress.org/plugins/woocommerce/) before importing
+2. Import the XML file through WordPress Tools > Import
+3. After import, you'll need to configure:
+   - Store location settings
+   - Tax settings
+   - Payment methods
+   - Shipping options
+
+Additionally, there is a CSV product import file available at `demo-content/spa-retreat-products.csv`. Note that while product images for this import are included in the theme's `assets/images/shop` directory, the current CSV file's image references do not match. You'll need to manually replace them with the correct images after import.
+
+Some WooCommerce settings are not included in the export and must be configured manually to match your specific requirements.
+
+For a basic installation without WooCommerce, you can still use the theme but will need to skip importing the demo content or remove the WooCommerce-specific content after import.
+
 ## Customization
 
 The theme includes a custom spa-focused color palette and typography defined in the `theme.json` file and a dedicated style variation. You can further customize the theme by:
