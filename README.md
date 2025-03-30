@@ -11,7 +11,7 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 - Spa & wellness-focused color palette with soothing blues and greens
 - Custom typography featuring elegant Cormorant Garamond for headings and clean Quicksand for body text
 - Pre-designed spa & wellness style variation
-- Custom block patterns specifically for spa and wellness businesses (coming soon)
+- Custom block patterns specifically for spa and wellness businesses
 - Maintains all functionality from the parent Moiraine theme
 - Clean, tranquil design with focus on creating a relaxing user experience
 
@@ -27,13 +27,35 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 2. Upload the Spa & Retreat Child theme to your WordPress site
 3. Activate the Spa & Retreat Child theme from the WordPress admin panel
 
+## Demo Content
+
+The theme includes demo content to help you get started quickly:
+
+### WooCommerce Demo Products
+
+The included demo content file `demo-content/velora.WordPress.2025-03-30.xml` contains WooCommerce products and related data. To use this demo content:
+
+1. Install and activate the [WooCommerce plugin](https://wordpress.org/plugins/woocommerce/) before importing
+2. Import the XML file through WordPress Tools > Import
+3. After import, you'll need to configure:
+   - Store location settings
+   - Tax settings
+   - Payment methods
+   - Shipping options
+
+Additionally, there is a CSV product import file available at `demo-content/spa-retreat-products.csv`. Note that while product images for this import are included in the theme's `assets/images/shop` directory, the current CSV file's image references do not match. You'll need to manually replace them with the correct images after import. Also if you used the XML for full import you do _not_ need this `.csv` file.
+
+Some WooCommerce settings are not included in the export and must be configured manually to match your specific requirements.
+
+For a basic installation without WooCommerce, you can still use the theme but will need to skip importing the demo content or remove the WooCommerce-specific content after import.
+
 ## Customization
 
 The theme includes a custom spa-focused color palette and typography defined in the `theme.json` file and a dedicated style variation. You can further customize the theme by:
 
 - Modifying the color palette in the `theme.json` file
 - Adding custom CSS to the `style.css` file
-- Using the included spa & wellness block patterns (coming soon)
+- Using the included spa & wellness block patterns
 - Creating additional style variations in the `styles` directory
 - Using the included custom fonts (Cormorant Garamond and Quicksand)
 
@@ -61,13 +83,22 @@ These fonts are located in the `assets/fonts` directory and are already configur
 
 ### Adding Block Patterns
 
-The theme will soon include custom block patterns designed specifically for spa and wellness websites, such as:
+The theme includes custom block patterns designed specifically for spa and wellness websites:
 
-- Service showcase
-- Testimonial layouts
-- Spa treatment menus
-- Booking and reservation sections
-- Wellness program highlights
+- **Four Column Wellness Posts** (`patterns/four-column-wellness-posts.php`): Display wellness blog posts in a four-column layout
+- **Header Top Bar with Centered Menu** (`patterns/header-top-bar-centered-menu.php`): A header layout with top utility bar and centered navigation
+- **Overlapping Feature Columns** (`patterns/overlapping-feature-columns.php`): Showcase services or features with visually overlapping columns
+- **Shop Overview Three Columns** (`patterns/shop-overview-three-columns.php`): Display products in an elegant three-column layout
+- **Two Column Feature** (`patterns/two-column-feature.php`): Highlight a service or feature in a two-column layout with image and text
+- **Two Column Review** (`patterns/two-column-review.php`): Display customer testimonials in a two-column layout
+
+These patterns can be accessed in the WordPress editor by clicking the "+" button and navigating to the Patterns section.
+
+### Custom Templates
+
+The theme includes the following custom templates:
+
+- **WooCommerce Archive Product** (`templates/archive-product.html`): A custom template for WooCommerce product category pages, optimized for wellness products
 
 ## Support
 
@@ -87,6 +118,11 @@ This theme includes images from the following photographers:
 - [Florencia Potter](https://unsplash.com/@florenciapotter?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-salt-on-glass-jar-UH1ewTC9HTk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Jonathan Ocampo](https://unsplash.com/@johnophoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/oil-dispenser-bottle-iCgfwfqgdzo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Mathilde Langevin](https://unsplash.com/@mathildelangevin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-black-glass-bottle-FDRaYqiTY1k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Kadarius Seegars](https://unsplash.com/@kseegars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/clear-glass-bottle-on-white-wooden-round-table-Mxy5gokl8mE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Rowan Freeman](https://unsplash.com/@rowanfreeman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-glass-bottle-showing-back-content-4u9LSRrZusc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Diana Light](https://unsplash.com/@dreamcatchlight?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-and-brown-wooden-rolling-pin-pBBxMUCgwuU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Jernej Graj](https://unsplash.com/@jernejgraj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/floating-woman-on-body-of-water-rlNibgIqi4o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Yonas Bekele](https://unsplash.com/@ybekele?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-on-sidewalk-during-daytime-B4NW2Fk3Bkk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
 
