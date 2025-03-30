@@ -11,7 +11,7 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 - Spa & wellness-focused color palette with soothing blues and greens
 - Custom typography featuring elegant Cormorant Garamond for headings and clean Quicksand for body text
 - Pre-designed spa & wellness style variation
-- Custom block patterns specifically for spa and wellness businesses (coming soon)
+- Custom block patterns specifically for spa and wellness businesses
 - Maintains all functionality from the parent Moiraine theme
 - Clean, tranquil design with focus on creating a relaxing user experience
 
@@ -55,7 +55,7 @@ The theme includes a custom spa-focused color palette and typography defined in 
 
 - Modifying the color palette in the `theme.json` file
 - Adding custom CSS to the `style.css` file
-- Using the included spa & wellness block patterns (coming soon)
+- Using the included spa & wellness block patterns
 - Creating additional style variations in the `styles` directory
 - Using the included custom fonts (Cormorant Garamond and Quicksand)
 
@@ -83,13 +83,22 @@ These fonts are located in the `assets/fonts` directory and are already configur
 
 ### Adding Block Patterns
 
-The theme will soon include custom block patterns designed specifically for spa and wellness websites, such as:
+The theme includes custom block patterns designed specifically for spa and wellness websites:
 
-- Service showcase
-- Testimonial layouts
-- Spa treatment menus
-- Booking and reservation sections
-- Wellness program highlights
+- **Four Column Wellness Posts** (`patterns/four-column-wellness-posts.php`): Display wellness blog posts in a four-column layout
+- **Header Top Bar with Centered Menu** (`patterns/header-top-bar-centered-menu.php`): A header layout with top utility bar and centered navigation
+- **Overlapping Feature Columns** (`patterns/overlapping-feature-columns.php`): Showcase services or features with visually overlapping columns
+- **Shop Overview Three Columns** (`patterns/shop-overview-three-columns.php`): Display products in an elegant three-column layout
+- **Two Column Feature** (`patterns/two-column-feature.php`): Highlight a service or feature in a two-column layout with image and text
+- **Two Column Review** (`patterns/two-column-review.php`): Display customer testimonials in a two-column layout
+
+These patterns can be accessed in the WordPress editor by clicking the "+" button and navigating to the Patterns section.
+
+### Custom Templates
+
+The theme includes the following custom templates:
+
+- **WooCommerce Archive Product** (`templates/archive-product.html`): A custom template for WooCommerce product category pages, optimized for wellness products
 
 ## Support
 
