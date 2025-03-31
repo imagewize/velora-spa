@@ -88,6 +88,7 @@ The theme includes custom block patterns designed specifically for spa and welln
 - **Four Column Wellness Posts** (`patterns/four-column-wellness-posts.php`): Display wellness blog posts in a four-column layout
 - **Header Top Bar with Centered Menu** (`patterns/header-top-bar-centered-menu.php`): A header layout with top utility bar and centered navigation
 - **Overlapping Feature Columns** (`patterns/overlapping-feature-columns.php`): Showcase services or features with visually overlapping columns
+- **Overlapping Feature Columns Reversed** (`patterns/overlapping-feature-columns-reversed.php`): Same as Overlapping Feature Columns but with reversed layout - text on left, image on right
 - **Shop Overview Three Columns** (`patterns/shop-overview-three-columns.php`): Display products in an elegant three-column layout
 - **Two Column Feature** (`patterns/two-column-feature.php`): Highlight a service or feature in a two-column layout with image and text
 - **Two Column Review** (`patterns/two-column-review.php`): Display customer testimonials in a two-column layout
