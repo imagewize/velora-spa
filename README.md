@@ -124,6 +124,7 @@ This theme includes images from the following photographers:
 - [Diana Light](https://unsplash.com/@dreamcatchlight?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-and-brown-wooden-rolling-pin-pBBxMUCgwuU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Jernej Graj](https://unsplash.com/@jernejgraj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/floating-woman-on-body-of-water-rlNibgIqi4o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Yonas Bekele](https://unsplash.com/@ybekele?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-on-sidewalk-during-daytime-B4NW2Fk3Bkk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Jellybee](https://unsplash.com/@jellybee?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/kirkland-vitamin-c-1000-mg-dTCSkD-oLNE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
 
