@@ -88,6 +88,7 @@ The theme includes custom block patterns designed specifically for spa and welln
 - **Four Column Wellness Posts** (`patterns/four-column-wellness-posts.php`): Display wellness blog posts in a four-column layout
 - **Header Top Bar with Centered Menu** (`patterns/header-top-bar-centered-menu.php`): A header layout with top utility bar and centered navigation
 - **Overlapping Feature Columns** (`patterns/overlapping-feature-columns.php`): Showcase services or features with visually overlapping columns
+- **Overlapping Feature Columns Reversed** (`patterns/overlapping-feature-columns-reversed.php`): Same as Overlapping Feature Columns but with reversed layout - text on left, image on right
 - **Shop Overview Three Columns** (`patterns/shop-overview-three-columns.php`): Display products in an elegant three-column layout
 - **Two Column Feature** (`patterns/two-column-feature.php`): Highlight a service or feature in a two-column layout with image and text
 - **Two Column Review** (`patterns/two-column-review.php`): Display customer testimonials in a two-column layout
@@ -123,6 +124,7 @@ This theme includes images from the following photographers:
 - [Diana Light](https://unsplash.com/@dreamcatchlight?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-and-brown-wooden-rolling-pin-pBBxMUCgwuU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Jernej Graj](https://unsplash.com/@jernejgraj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/floating-woman-on-body-of-water-rlNibgIqi4o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Yonas Bekele](https://unsplash.com/@ybekele?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-on-sidewalk-during-daytime-B4NW2Fk3Bkk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Jellybee](https://unsplash.com/@jellybee?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/kirkland-vitamin-c-1000-mg-dTCSkD-oLNE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 ## License
 
