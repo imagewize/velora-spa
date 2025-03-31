@@ -20,6 +20,15 @@ Text Domain:  spa-theme
         position: relative;
         align-self: center;
     }
+    
+    /* Styling for reversed overlapping columns */
+    .is-style-overlap-columns-reversed .wp-block-column:nth-child(1) {
+        margin-right: -10%;
+        margin-left: 0;
+        z-index: 2;
+        position: relative;
+        align-self: center;
+    }
 }
 
 /* Make post featured images fill their containers properly */
