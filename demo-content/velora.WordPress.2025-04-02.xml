@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-02 03:38" -->
+	<!-- generator="WordPress/6.7.2" created="2025-04-02 03:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Wed, 02 Apr 2025 03:38:54 +0000</pubDate>
+	<pubDate>Wed, 02 Apr 2025 03:54:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -2354,14 +2354,18 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:ssa/booking /--></div>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}}} -->
+<p style="line-height:1.7">Welcome to our spa booking page! Treat yourself to a moment of tranquility and well-being. Whether you're looking for a soothing massage, a revitalizing facial, or a complete wellness experience, we have the perfect treatment for you. Simply select your preferred service and time from the calendar below, and let us take care of the rest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:ssa/booking {"accent_color":"#5BBCD6"} /--></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-29 02:51:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-03-29 02:51:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 03:37:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 03:37:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 03:48:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 03:48:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book]]></wp:post_name>
