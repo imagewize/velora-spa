@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-02 03:54" -->
+	<!-- generator="WordPress/6.7.2" created="2025-04-02 06:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Wed, 02 Apr 2025 03:54:27 +0000</pubDate>
+	<pubDate>Wed, 02 Apr 2025 06:15:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -38,6 +38,12 @@
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[salon]]></wp:author_login><wp:author_email><![CDATA[admin@imagewize.com]]></wp:author_email><wp:author_display_name><![CDATA[salon]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@demo.imagewize.test]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
+		<wp:category>
+		<wp:term_id>69</wp:term_id>
+		<wp:category_nicename><![CDATA[beauty]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[beauty]]></wp:cat_name>
+	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
@@ -358,8 +364,8 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>42</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_scent]]></wp:term_taxonomy>
+		<wp:term_id>47</wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_fragrance]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lavender]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Lavender]]></wp:term_name>
@@ -369,8 +375,8 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>47</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_fragrance]]></wp:term_taxonomy>
+		<wp:term_id>42</wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_scent]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lavender]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Lavender]]></wp:term_name>
@@ -576,8 +582,8 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>49</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_fragrance]]></wp:term_taxonomy>
+		<wp:term_id>52</wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_formula]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[unscented]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Unscented]]></wp:term_name>
@@ -587,8 +593,8 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>52</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_formula]]></wp:term_taxonomy>
+		<wp:term_id>49</wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_fragrance]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[unscented]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Unscented]]></wp:term_name>
@@ -1944,8 +1950,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-18 03:13:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-03-18 03:13:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-31 01:46:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-31 01:46:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 05:39:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 05:39:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2343,48 +2349,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Book]]></title>
-		<link>http://demo.imagewize.test/spa/book/</link>
-		<pubDate>Sat, 29 Mar 2025 02:51:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}}} -->
-<p style="line-height:1.7">Welcome to our spa booking page! Treat yourself to a moment of tranquility and well-being. Whether you're looking for a soothing massage, a revitalizing facial, or a complete wellness experience, we have the perfect treatment for you. Simply select your preferred service and time from the calendar below, and let us take care of the rest.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:ssa/booking {"accent_color":"#5BBCD6"} /--></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-29 02:51:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-29 02:51:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 03:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 03:48:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[book]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Blog]]></title>
 		<link>http://demo.imagewize.test/spa/blog/</link>
 		<pubDate>Tue, 18 Mar 2025 03:53:02 +0000</pubDate>
@@ -2408,38 +2372,6 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[Massages]]></title>
-		<link>http://demo.imagewize.test/spa/massage-therapy/</link>
-		<pubDate>Sat, 29 Mar 2025 02:51:53 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?page_id=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-29 02:51:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-29 02:51:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-29 03:09:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-29 03:09:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[massage-therapy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>http://demo.imagewize.test/spa/?page_id=205</link>
@@ -3024,6 +2956,72 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[spa-treatment-hot-stones]]></title>
+		<link>http://demo.imagewize.test/spa/why-regular-spa-visits-are-more-than-just-a-luxury/spa-treatment-hot-stones/</link>
+		<pubDate>Wed, 02 Apr 2025 06:06:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-hot-stones.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>375</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 06:06:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 06:06:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:06:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:06:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[spa-treatment-hot-stones]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>373</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-hot-stones.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/spa-treatment-hot-stones.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:36:"2025/04/spa-treatment-hot-stones.jpg";s:8:"filesize";i:257253;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:36:"spa-treatment-hot-stones-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11998;}s:5:"large";a:5:{s:4:"file";s:37:"spa-treatment-hot-stones-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53381;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"spa-treatment-hot-stones-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7541;}s:12:"medium_large";a:5:{s:4:"file";s:36:"spa-treatment-hot-stones-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35488;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:36:"spa-treatment-hot-stones-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12970;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:36:"spa-treatment-hot-stones-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25557;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:36:"spa-treatment-hot-stones-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6148;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[meditation]]></title>
+		<link>http://demo.imagewize.test/spa/5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body/meditation/</link>
+		<pubDate>Wed, 02 Apr 2025 06:08:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/04/meditation.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>377</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 06:08:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 06:08:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:08:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:08:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[meditation]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>371</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/04/meditation.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/meditation.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1039;s:4:"file";s:22:"2025/04/meditation.jpg";s:8:"filesize";i:487912;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:22:"meditation-300x208.jpg";s:5:"width";i:300;s:6:"height";i:208;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20903;}s:5:"large";a:5:{s:4:"file";s:23:"meditation-1024x709.jpg";s:5:"width";i:1024;s:6:"height";i:709;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127432;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"meditation-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11430;}s:12:"medium_large";a:5:{s:4:"file";s:22:"meditation-768x532.jpg";s:5:"width";i:768;s:6:"height";i:532;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81871;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:22:"meditation-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26876;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:22:"meditation-600x416.jpg";s:5:"width";i:600;s:6:"height";i:416;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55774;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:22:"meditation-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8038;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Nourish Your Skin with Our Luxurious Facial Cream]]></title>
 		<link>http://demo.imagewize.test/spa/nourish-your-skin-with-our-luxurious-facial-cream/</link>
 		<pubDate>Thu, 27 Mar 2025 08:34:59 +0000</pubDate>
@@ -3154,6 +3152,48 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Book]]></title>
+		<link>http://demo.imagewize.test/spa/book/</link>
+		<pubDate>Sat, 29 Mar 2025 02:51:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}}} -->
+<p style="line-height:1.7">Welcome to our spa booking page! Treat yourself to a moment of tranquility and well-being. Whether you're looking for a soothing massage, a revitalizing facial, or a complete wellness experience, we have the perfect treatment for you. Simply select your preferred service and time from the calendar below, and let us take care of the rest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:ssa/booking {"accent_color":"#5BBCD6"} /--></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 02:51:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 02:51:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 03:48:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 03:48:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[book]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Relax & Rejuvenate with a Massage at Velora Spa]]></title>
 		<link>http://demo.imagewize.test/spa/relax-and-rejuvenate-with-a-massage-at-velora-spa/</link>
 		<pubDate>Fri, 28 Mar 2025 06:08:59 +0000</pubDate>
@@ -3240,19 +3280,99 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Massages]]></title>
+		<link>http://demo.imagewize.test/spa/massage-therapy/</link>
+		<pubDate>Sat, 29 Mar 2025 02:51:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?page_id=125</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-29 02:51:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-29 02:51:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-29 03:09:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-29 03:09:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[massage-therapy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Beauty]]></title>
 		<link>http://demo.imagewize.test/spa/beauty/</link>
 		<pubDate>Sat, 29 Mar 2025 02:59:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.imagewize.test/spa/?page_id=140</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Blog Post Columns","categories":["moiraine/posts"],"patternName":"moiraine/blog-post-columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Latest and Greatest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Read our latest Beauty blog articles</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">At Beautify, we believe that wellness is a journey—a path to rejuvenation, relaxation, and self-discovery. Our blog is your go-to resource for holistic beauty tips, self-care rituals, and insights into maintaining a balanced lifestyle. Whether you're looking for expert advice on skincare, the latest in spa treatments, or simple ways to unwind at home, you'll find inspiration and guidance right here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Join us as we explore the world of wellness, one blissful moment at a time.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false,"taxQuery":{"category":[69]}},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px","margin":{"top":"1.5rem"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-small","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-secondary-color has-text-color has-link-color has-x-small-font-size" style="margin-top:1.5rem"><!-- wp:post-author {"showAvatar":false} /-->
+
+<!-- wp:paragraph -->
+<p>·</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-date /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
+
+<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-29 02:59:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-03-29 02:59:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-29 02:59:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-29 02:59:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:11:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:11:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beauty]]></wp:post_name>
@@ -3262,7 +3382,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Spa]]></title>
 		<link>http://demo.imagewize.test/spa/spa/</link>
@@ -3712,78 +3836,6 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/internormal400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>220</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[internormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;normal;500;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/internormal500100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal500100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-500-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>221</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[internormal500100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;normal;600;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/internormal600100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal600100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"600","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-600-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[internormal600100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Essential Oil Blend]]></title>
 		<link>http://demo.imagewize.test/spa/product/essential-oil-blend/</link>
 		<pubDate>Sun, 30 Mar 2025 03:45:33 +0000</pubDate>
@@ -3810,8 +3862,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_size" nicename="1oz"><![CDATA[1oz]]></category>
 		<category domain="pa_size" nicename="2oz"><![CDATA[2oz]]></category>
-		<category domain="product_tag" nicename="aromatherapy"><![CDATA[aromatherapy]]></category>
 		<category domain="product_cat" nicename="aromatherapy"><![CDATA[Aromatherapy]]></category>
+		<category domain="product_tag" nicename="aromatherapy"><![CDATA[aromatherapy]]></category>
 		<category domain="pa_scent" nicename="bergamot"><![CDATA[Bergamot]]></category>
 		<category domain="product_tag" nicename="essential-oil"><![CDATA[essential oil]]></category>
 		<category domain="pa_scent" nicename="eucalyptus"><![CDATA[Eucalyptus]]></category>
@@ -4095,8 +4147,8 @@ Perfect for professional massage therapists or home use.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_formula" nicename="energizing"><![CDATA[Energizing]]></category>
-		<category domain="product_tag" nicename="massage"><![CDATA[massage]]></category>
 		<category domain="product_cat" nicename="massage"><![CDATA[Massage]]></category>
+		<category domain="product_tag" nicename="massage"><![CDATA[massage]]></category>
 		<category domain="product_tag" nicename="oil"><![CDATA[oil]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_tag" nicename="relaxation"><![CDATA[relaxation]]></category>
@@ -4392,151 +4444,211 @@ Suggested use: Take 1-2 capsules daily with meals for best results.]]></content:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Pure Collagen Supplement]]></title>
-		<link>http://demo.imagewize.test/spa/product/pure-collagen-supplement/</link>
-		<pubDate>Mon, 31 Mar 2025 01:22:39 +0000</pubDate>
+		<title><![CDATA[5 Essential Self-Care Rituals to Rejuvenate Your Mind and Body]]></title>
+		<link>http://demo.imagewize.test/spa/5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body/</link>
+		<pubDate>Wed, 02 Apr 2025 06:02:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/product/pure-collagen-supplement/</guid>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=371</guid>
 		<description></description>
-		<content:encoded><![CDATA[Our Pure Collagen Supplement delivers high-quality collagen peptides to support skin elasticity, joint health, and hair strength. This unflavored formula dissolves easily in hot or cold beverages without affecting taste.
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>In today’s fast-paced world, self-care is not a luxury but a necessity. At Beautify Spa &amp; Retreat, we believe in the power of rituals to restore balance and rejuvenate both mind and body. Here are five essential self-care rituals you can incorporate into your routine to feel your best.</p>
+<!-- /wp:paragraph -->
 
-Benefits:
-- Promotes skin elasticity and hydration
-- Supports joint health and flexibility
-- Strengthens hair and nails
-- Unflavored and easy to mix
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Start Your Day with Mindful Meditation</strong><br>Take just 10 minutes every morning to focus on your breath and set a positive intention. At Beautify, we offer guided meditation sessions to help you develop a peaceful start to your day.</p>
+<!-- /wp:paragraph -->
 
-Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Premium collagen peptides for skin and joint health.]]></excerpt:encoded>
-		<wp:post_id>343</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-31 01:22:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-31 01:22:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-31 01:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-31 01:30:57]]></wp:post_modified_gmt>
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Indulge in a Rejuvenating Facial</strong><br>Pamper yourself with a soothing facial that hydrates, brightens, and revitalizes your skin. Our signature treatments use organic ingredients to leave your skin glowing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Soothe Your Muscles with a Hot Stone Massage</strong><br>Melt away tension and stress with a hot stone massage. The combination of heat and massage therapy works wonders for relaxation and muscle recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Nourish Your Body with a Detox Smoothie</strong><br>Start your morning with a nutrient-packed detox smoothie. We recommend blending kale, spinach, green apple, and ginger for an energizing boost. Visit our spa cafe for fresh, wellness-focused drinks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. End Your Day with Aromatherapy</strong><br>Wind down with calming essential oils like lavender or eucalyptus. A soothing bath or massage with these oils helps relieve stress and promotes restful sleep.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Incorporating these self-care rituals into your routine can make a significant difference in your overall well-being. Visit Beautify Spa &amp; Retreat to experience these rejuvenating practices firsthand. Your mind and body will thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo by <a href="https://unsplash.com/@itsomidarmin?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">omid armin</a> on <a href="https://unsplash.com/photos/woman-taking-selfie-a5EbQpl-IHw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>371</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 06:02:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 06:02:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:08:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:08:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pure-collagen-supplement]]></wp:post_name>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="39-99"><![CDATA[39.99]]></category>
-		<category domain="product_shipping_class" nicename="collagen-skin-health-joint-health-beauty"><![CDATA[collagen, skin health, joint health, beauty]]></category>
-		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="pa_1" nicename="type"><![CDATA[Type]]></category>
-		<category domain="product_tag" nicename="wellness-supplements"><![CDATA[Wellness &gt; Supplements]]></category>
+										<category domain="category" nicename="beauty"><![CDATA[beauty]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-		<wp:meta_value><![CDATA[spa-collagen-pure]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31.99]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0.6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:4:"pa_1";a:6:{s:4:"name";s:4:"pa_1";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:0;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9.7.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31.99]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pure-collagen-supplement__trashed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[345]]></wp:meta_value>
+		<wp:meta_value><![CDATA[377]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Why Regular Spa Visits Are More Than Just a Luxury]]></title>
+		<link>http://demo.imagewize.test/spa/why-regular-spa-visits-are-more-than-just-a-luxury/</link>
+		<pubDate>Wed, 02 Apr 2025 06:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=373</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>Many people see spa visits as an occasional treat, but incorporating regular spa time into your life can have profound health benefits. At Beautify Spa &amp; Retreat, we encourage our clients to view spa sessions as essential for maintaining well-being. Here’s why.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Stress Relief and Mental Clarity</strong><br>Regular massages and relaxation therapies help reduce cortisol levels and increase serotonin production. This combination is key for reducing anxiety and improving mood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Enhanced Skin Health</strong><br>Routine facials and body scrubs help detoxify the skin, clear pores, and improve circulation. This results in a naturally radiant complexion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Pain Management and Physical Well-Being</strong><br>Chronic pain, whether from stress or physical strain, can take a toll on your quality of life. Treatments like deep tissue massage and reflexology help alleviate discomfort and improve mobility.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Better Sleep Patterns</strong><br>Stress and tension can disrupt your sleep cycle. Spa treatments that focus on relaxation, like aromatherapy and hot stone massages, promote deeper, more restorative sleep.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. Boosted Self-Confidence</strong><br>Looking good and feeling good often go hand in hand. Taking time to care for your body not only enhances your physical appearance but also boosts your confidence and self-worth.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Regular spa visits are more than a luxury—they’re an investment in your mental and physical health. Treat yourself to the care you deserve at Beautify Spa &amp; Retreat and discover the transformative power of self-care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo by <a href="https://unsplash.com/@enginakyurt?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">engin akyurt</a> on <a href="https://unsplash.com/photos/white-and-brown-ceramic-figurine-ZbzYDboN7fg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 06:03:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 06:03:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:07:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:07:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[why-regular-spa-visits-are-more-than-just-a-luxury]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[beauty]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[375]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/internormal400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>220</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[internormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;normal;500;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/internormal500100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal500100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-500-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>221</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[internormal500100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;normal;600;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/internormal600100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal600100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"600","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-600-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>222</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[internormal600100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[inter;italic;400;100%;U+0-10FFFF]]></title>
 		<link>http://demo.imagewize.test/spa/interitalic400100u0-10ffff/</link>
@@ -4922,6 +5034,224 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Pure Collagen Supplement]]></title>
+		<link>http://demo.imagewize.test/spa/product/pure-collagen-supplement/</link>
+		<pubDate>Mon, 31 Mar 2025 01:22:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/product/pure-collagen-supplement/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Our Pure Collagen Supplement delivers high-quality collagen peptides to support skin elasticity, joint health, and hair strength. This unflavored formula dissolves easily in hot or cold beverages without affecting taste.
+
+Benefits:
+- Promotes skin elasticity and hydration
+- Supports joint health and flexibility
+- Strengthens hair and nails
+- Unflavored and easy to mix
+
+Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Premium collagen peptides for skin and joint health.]]></excerpt:encoded>
+		<wp:post_id>343</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-31 01:22:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-31 01:22:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-31 01:30:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-31 01:30:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pure-collagen-supplement]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="39-99"><![CDATA[39.99]]></category>
+		<category domain="product_shipping_class" nicename="collagen-skin-health-joint-health-beauty"><![CDATA[collagen, skin health, joint health, beauty]]></category>
+		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="pa_1" nicename="type"><![CDATA[Type]]></category>
+		<category domain="product_tag" nicename="wellness-supplements"><![CDATA[Wellness &gt; Supplements]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+		<wp:meta_value><![CDATA[spa-collagen-pure]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31.99]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0.6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:4:"pa_1";a:6:{s:4:"name";s:4:"pa_1";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:0;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9.7.1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31.99]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pure-collagen-supplement__trashed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[345]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Inter]]></title>
+		<link>http://demo.imagewize.test/spa/inter/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/inter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>208</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[inter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Bodoni Moda]]></title>
+		<link>http://demo.imagewize.test/spa/bodoni-moda/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-moda/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\", serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>209</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bodoni-moda]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Overpass]]></title>
+		<link>http://demo.imagewize.test/spa/overpass/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpass/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>210</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overpass]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[montserrat;italic;700;100%;U+0-10FFFF]]></title>
 		<link>http://demo.imagewize.test/spa/montserratitalic700100u0-10ffff/</link>
 		<pubDate>Sun, 30 Mar 2025 02:00:08 +0000</pubDate>
@@ -5014,174 +5344,6 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:post_parent>215</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Inter]]></title>
-		<link>http://demo.imagewize.test/spa/inter/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/inter/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>208</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[inter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Bodoni Moda]]></title>
-		<link>http://demo.imagewize.test/spa/bodoni-moda/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-moda/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\", serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>209</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bodoni-moda]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Overpass]]></title>
-		<link>http://demo.imagewize.test/spa/overpass/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpass/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>210</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpass]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Albert Sans]]></title>
-		<link>http://demo.imagewize.test/spa/albert-sans/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sans/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\", sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>211</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[albert-sans]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Lora]]></title>
-		<link>http://demo.imagewize.test/spa/lora/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/lora/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Lora, serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>212</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[lora]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Montserrat]]></title>
-		<link>http://demo.imagewize.test/spa/montserrat/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserrat/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>213</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserrat]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Arvo]]></title>
-		<link>http://demo.imagewize.test/spa/arvo/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/arvo/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Arvo, serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/arvo/arvo.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>214</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[arvo]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
@@ -5629,6 +5791,102 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Albert Sans]]></title>
+		<link>http://demo.imagewize.test/spa/albert-sans/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sans/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\", sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>211</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[albert-sans]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Lora]]></title>
+		<link>http://demo.imagewize.test/spa/lora/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/lora/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Lora, serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>212</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lora]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Montserrat]]></title>
+		<link>http://demo.imagewize.test/spa/montserrat/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserrat/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>213</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[montserrat]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Arvo]]></title>
+		<link>http://demo.imagewize.test/spa/arvo/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/arvo/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Arvo, serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/arvo/arvo.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>214</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[arvo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Rubik]]></title>
 		<link>http://demo.imagewize.test/spa/rubik/</link>
 		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
@@ -5748,6 +6006,123 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Product Catalog]]></title>
+		<link>http://demo.imagewize.test/spa/archive-product/</link>
+		<pubDate>Wed, 02 Apr 2025 05:40:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/archive-product/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"spa-theme","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"inherit":true,"type":"constrained"}} -->
+<main class="wp-block-group"><!-- wp:woocommerce/breadcrumbs /-->
+
+<!-- wp:query-title {"type":"archive","showPrefix":false,"align":"wide"} /-->
+
+<!-- wp:woocommerce/store-notices /-->
+
+<!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide"><!-- wp:woocommerce/product-results-count /-->
+
+<!-- wp:woocommerce/catalog-sorting /--></div>
+<!-- /wp:group -->
+
+<!-- wp:woocommerce/product-collection {"queryId":13,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":true,"taxQuery":[],"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":3,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."},"align":"wide"} -->
+<div class="wp-block-woocommerce-product-collection alignwide"><!-- wp:woocommerce/product-template -->
+<!-- wp:woocommerce/product-image {"imageSizing":"thumbnail","isDescendentOfQueryLoop":true} /-->
+
+<!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"spacing":{"margin":{"bottom":"0.75rem","top":"0"}}},"fontSize":"medium","__woocommerceNamespace":"woocommerce/product-collection/product-title"} /-->
+
+<!-- wp:woocommerce/product-price {"isDescendentOfQueryLoop":true,"textAlign":"center","fontSize":"small"} /-->
+
+<!-- wp:woocommerce/product-button {"textAlign":"center","isDescendentOfQueryLoop":true,"fontSize":"small"} /-->
+<!-- /wp:woocommerce/product-template -->
+
+<!-- wp:query-pagination {"layout":{"type":"flex","justifyContent":"center"}} -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination -->
+
+<!-- wp:woocommerce/product-collection-no-results -->
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong>No results found</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can try <a class="wc-link-clear-any-filters" href="#">clearing any filters</a> or head to our <a class="wc-link-stores-home" href="#">store's home</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+<!-- /wp:woocommerce/product-collection-no-results --></div>
+<!-- /wp:woocommerce/product-collection -->
+
+<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/review-text-image-overlap","name":"Overlapping Review"},"align":"wide","className":"is-style-overlap-columns-reversed","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
+<div class="wp-block-columns alignwide is-style-overlap-columns-reversed" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"50%","className":"overlap-column"} -->
+<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
+<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph -->
+<p>"The treatment I received at this spa exceeded all my expectations. The staff was professional and attentive, making me feel valued throughout my visit."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"className":"is-style-wide","backgroundColor":"border-light"} -->
+<hr class="wp-block-separator has-text-color has-border-light-color has-alpha-channel-opacity has-border-light-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-thumbnail is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/review-profile.jpg" alt="Emma Johnson" style="object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"}}} -->
+<p style="font-style:normal;font-weight:600">Emma Johnson</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Regular Client</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/spa-treatment-landscape.jpg" alt="Natural wellness supplements"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"spa-theme","tagName":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays your products.]]></excerpt:encoded>
+		<wp:post_id>369</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 05:40:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 05:40:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 05:40:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 05:40:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archive-product]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="spa-theme"><![CDATA[spa-theme]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
