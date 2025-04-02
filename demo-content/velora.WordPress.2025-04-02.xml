@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-02 06:15" -->
+	<!-- generator="WordPress/6.7.2" created="2025-04-02 07:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Wed, 02 Apr 2025 06:15:36 +0000</pubDate>
+	<pubDate>Wed, 02 Apr 2025 07:21:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -43,6 +43,12 @@
 		<wp:category_nicename><![CDATA[beauty]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[beauty]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>70</wp:term_id>
+		<wp:category_nicename><![CDATA[spa]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[spa]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -582,8 +588,8 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>52</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_formula]]></wp:term_taxonomy>
+		<wp:term_id>49</wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_fragrance]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[unscented]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Unscented]]></wp:term_name>
@@ -593,8 +599,8 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>49</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_fragrance]]></wp:term_taxonomy>
+		<wp:term_id>52</wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_formula]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[unscented]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Unscented]]></wp:term_name>
@@ -2019,360 +2025,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contact]]></title>
-		<link>http://demo.imagewize.test/spa/contact-us/</link>
-		<pubDate>Tue, 18 Mar 2025 04:05:44 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Contact Details"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-large","left":"var:preset|spacing|x-large"},"margin":{"top":"0px","bottom":"0px"}}}} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"metadata":{"name":"Text"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Contact Us</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Give us a ring, we'd love to chat with you.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Whether you're looking for a brand refresh, a new web presence, or are curious about consultation, please drop us a line and let's start a blossoming relationship!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button">Contact Us</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"className":"is-style-secondary-button"} -->
-<div class="wp-block-button is-style-secondary-button"><a class="wp-block-button__link wp-element-button">Join Our Team</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","style":{"spacing":{"margin":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"backgroundColor":"main-accent"} -->
-<hr class="wp-block-separator has-text-color has-main-accent-color has-alpha-channel-opacity has-main-accent-background-color has-background is-style-separator-dotted" style="margin-top:var(--wp--preset--spacing--large);margin-bottom:var(--wp--preset--spacing--large)" />
-<!-- /wp:separator -->
-
-<!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"textColor":"primary"} -->
-<p class="has-primary-color has-text-color">★★★★★</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
-<p style="font-style:normal;font-weight:600">“Working with Moiraine has been a delight from start to finish.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"secondary","fontSize":"x-small"} -->
-<p class="has-secondary-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500">Rated 5/5 stars by 1,620 happy reviewers</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|medium","padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|x-large","right":"var:preset|spacing|x-large"}},"border":{"radius":"5px"}},"backgroundColor":"main"} -->
-<div class="wp-block-column is-vertically-aligned-center has-main-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--x-large)"><!-- wp:group {"metadata":{"name":"Title Row"},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"base","fontSize":"medium"} -->
-<p class="has-base-color has-text-color has-medium-font-size" style="font-style:normal;font-weight:600">Contact Us</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"layout":{"type":"flex"}} -->
-<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://twitter.com","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"https://facebook.com","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"https://linkedin.com","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://youtube.com","service":"youtube"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Text"},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"secondary"} -->
-<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" />
-<!-- /wp:separator -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"textColor":"main-accent"} -->
-<p class="has-main-accent-color has-text-color">Email</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"base"} -->
-<p class="has-base-color has-text-color">mail@example.com</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"secondary"} -->
-<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" />
-<!-- /wp:separator -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"textColor":"main-accent"} -->
-<p class="has-main-accent-color has-text-color">Phone</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"base"} -->
-<p class="has-base-color has-text-color">815-420-2024</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"secondary"} -->
-<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" />
-<!-- /wp:separator -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"textColor":"main-accent"} -->
-<p class="has-main-accent-color has-text-color">Address</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"base"} -->
-<p class="has-base-color has-text-color">1234 Theme Street<br>San Francisco, CA 94070</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Testimonials"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"primary","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-primary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|x-large"},"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"base","fontSize":"small"} -->
-<p class="has-text-align-center has-base-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Testimonials</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center","textColor":"base"} -->
-<h2 class="wp-block-heading has-text-align-center has-base-color has-text-color">Meet our happy campers</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","textColor":"primary-accent"} -->
-<p class="has-text-align-center has-primary-accent-color has-text-color">Customer happiness as at the core of our business model. If our customers aren’t succeeding, we’re not succeeding. See what they’re saying below.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-large","left":"var:preset|spacing|x-large"},"margin":{"top":"0px","bottom":"0px"}}}} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base"} -->
-<div class="wp-block-column is-vertically-aligned-center has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Via Twitter →</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","iconBackgroundColor":"primary","iconBackgroundColorValue":"#4d34fa","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
-<ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"twitter"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","style":{"spacing":{"margin":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"backgroundColor":"secondary"} -->
-<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" style="margin-top:var(--wp--preset--spacing--medium);margin-bottom:var(--wp--preset--spacing--medium)" />
-<!-- /wp:separator -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">I love using WordPress but traditionally it has been hard to design in. Not any more! I can quickly build out page sections or full page designs with Moiraine patterns. Saves me so much time!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","margin":{"top":"var:preset|spacing|large"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--large)"><!-- wp:image {"id":59,"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-4.webp" alt="" class="wp-image-59" style="width:60px;height:60px" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>Maryann Alpine</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Software Engineer</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base"} -->
-<div class="wp-block-column is-vertically-aligned-center has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Via Facebook →</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","iconBackgroundColor":"primary","iconBackgroundColorValue":"#4d34fa","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
-<ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"facebook"} /--></ul>
-<!-- /wp:social-links --></div>
-<!-- /wp:group -->
-
-<!-- wp:separator {"className":"is-style-separator-dotted","style":{"spacing":{"margin":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"backgroundColor":"secondary"} -->
-<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" style="margin-top:var(--wp--preset--spacing--medium);margin-bottom:var(--wp--preset--spacing--medium)" />
-<!-- /wp:separator -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">I create a lot of landing pages, and the Site Editor and Moiraine have been huge for this. I can choose from a pre-designed landing page, customize my brand colors, and I’m ready to launch.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","margin":{"top":"var:preset|spacing|large"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--large)"><!-- wp:image {"id":33082,"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-5.webp" alt="" class="wp-image-33082" style="width:60px;height:60px" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong><strong>Alex Glacier</strong></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Brand Designer</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Frequently Asked","categories":["moiraine/features"],"patternName":"moiraine/faq"},"align":"full","className":"feature-boxes","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|x-large"}},"layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull feature-boxes" style="margin-top:0px;padding-top:var(--wp--preset--spacing--xx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Frequently Asked</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Learn about our product</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Got a question? We've got you covered! Check out the resources below and be sure to let us know if we can answer anything else.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"FAQ"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"blockGap":{"top":"var:preset|spacing|large","left":"var:preset|spacing|large"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"className":"is-style-default","style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
-<div class="wp-block-column is-style-default"><!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
-<h3 class="wp-block-heading has-medium-font-size">What exactly is Moiraine? </h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Moiraine is a WordPress block theme that is designed to work with the new WordPress Site Editor. That means your site can be built with blocks, patterns, and other design elements that can be easily edited without any coding skills. </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
-<h3 class="wp-block-heading has-medium-font-size">Do I need any other plugins?</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Nope! Moiraine is designed to work with the native WordPress editor, meaning you don't need a page builder plugin to build a beautiful website on WordPress anymore. Of course, you can continue using your favorite plugins alongside Moiraine!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"className":"is-style-default","style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
-<div class="wp-block-column is-style-default"><!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
-<h3 class="wp-block-heading has-medium-font-size">What if I've never used the Site Editor?</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Don't worry, we'll show you around! The Site Editor is fairly new, and lots of folks are still trying it out for the first time. There's a lot to learn, but the site building power you'll unlock with all of the new design tools will be well worth it!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
-<h3 class="wp-block-heading has-medium-font-size">What are patterns? </h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Patterns are pre-designed page elements that you can drag and drop to create unique designs. Moiraine comes with an extensive collection of expertly-designed patterns, but you can also design your own patterns.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"CTA Bar"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"radius":"5px"}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide has-tertiary-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide"><!-- wp:group {"metadata":{"name":"Text"},"layout":{"type":"constrained","wideSize":"700px"}} -->
-<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":58,"width":"76px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-3.webp" alt="" class="wp-image-58" style="width:76px" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
-<p class="has-medium-font-size" style="font-style:normal;font-weight:600">Still have questions?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Can't find what you're looking for? Let's have a chat!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Contact Us →</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-18 04:05:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-18 04:05:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-18 04:05:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-18 04:05:44]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>http://demo.imagewize.test/spa/blog/</link>
-		<pubDate>Tue, 18 Mar 2025 03:53:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-18 03:53:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-18 03:53:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-18 03:53:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-18 03:53:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>http://demo.imagewize.test/spa/?page_id=205</link>
 		<pubDate></pubDate>
@@ -3022,6 +2674,72 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[spa-visit]]></title>
+		<link>http://demo.imagewize.test/spa/the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit/spa-visit/</link>
+		<pubDate>Wed, 02 Apr 2025 07:18:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-visit.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>386</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 07:18:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 07:18:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:18:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:18:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[spa-visit]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>385</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-visit.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/spa-visit.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:21:"2025/04/spa-visit.jpg";s:8:"filesize";i:362888;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:21:"spa-visit-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15410;}s:5:"large";a:5:{s:4:"file";s:22:"spa-visit-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85041;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"spa-visit-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9048;}s:12:"medium_large";a:5:{s:4:"file";s:21:"spa-visit-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53710;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:21:"spa-visit-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18347;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:21:"spa-visit-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37195;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:21:"spa-visit-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6863;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[spa-foot-bath]]></title>
+		<link>http://demo.imagewize.test/spa/top-5-spa-treatments-to-melt-away-stress-and-boost-wellness/spa-foot-bath/</link>
+		<pubDate>Wed, 02 Apr 2025 07:19:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-foot-bath.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>389</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 07:19:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 07:19:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:19:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:19:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[spa-foot-bath]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>388</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-foot-bath.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/spa-foot-bath.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1001;s:4:"file";s:25:"2025/04/spa-foot-bath.jpg";s:8:"filesize";i:259059;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:25:"spa-foot-bath-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14735;}s:5:"large";a:5:{s:4:"file";s:26:"spa-foot-bath-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67666;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"spa-foot-bath-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9121;}s:12:"medium_large";a:5:{s:4:"file";s:25:"spa-foot-bath-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45818;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:25:"spa-foot-bath-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17415;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:25:"spa-foot-bath-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32745;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:25:"spa-foot-bath-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7056;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Nourish Your Skin with Our Luxurious Facial Cream]]></title>
 		<link>http://demo.imagewize.test/spa/nourish-your-skin-with-our-luxurious-facial-cream/</link>
 		<pubDate>Thu, 27 Mar 2025 08:34:59 +0000</pubDate>
@@ -3152,6 +2870,336 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>http://demo.imagewize.test/spa/contact-us/</link>
+		<pubDate>Tue, 18 Mar 2025 04:05:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=13</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Contact Details"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-large","left":"var:preset|spacing|x-large"},"margin":{"top":"0px","bottom":"0px"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"metadata":{"name":"Text"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Contact Us</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Give us a ring, we'd love to chat with you.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Whether you're looking for a brand refresh, a new web presence, or are curious about consultation, please drop us a line and let's start a blossoming relationship!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button">Contact Us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-secondary-button"} -->
+<div class="wp-block-button is-style-secondary-button"><a class="wp-block-button__link wp-element-button">Join Our Team</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:separator {"className":"is-style-separator-dotted","style":{"spacing":{"margin":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"backgroundColor":"main-accent"} -->
+<hr class="wp-block-separator has-text-color has-main-accent-color has-alpha-channel-opacity has-main-accent-background-color has-background is-style-separator-dotted" style="margin-top:var(--wp--preset--spacing--large);margin-bottom:var(--wp--preset--spacing--large)" />
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"textColor":"primary"} -->
+<p class="has-primary-color has-text-color">★★★★★</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<p style="font-style:normal;font-weight:600">“Working with Moiraine has been a delight from start to finish.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"secondary","fontSize":"x-small"} -->
+<p class="has-secondary-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500">Rated 5/5 stars by 1,620 happy reviewers</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|medium","padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","left":"var:preset|spacing|x-large","right":"var:preset|spacing|x-large"}},"border":{"radius":"5px"}},"backgroundColor":"main"} -->
+<div class="wp-block-column is-vertically-aligned-center has-main-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--x-large)"><!-- wp:group {"metadata":{"name":"Title Row"},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"base","fontSize":"medium"} -->
+<p class="has-base-color has-text-color has-medium-font-size" style="font-style:normal;font-weight:600">Contact Us</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","className":"is-style-logos-only","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"layout":{"type":"flex"}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://twitter.com","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"https://facebook.com","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"https://linkedin.com","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://youtube.com","service":"youtube"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Text"},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"secondary"} -->
+<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" />
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"textColor":"main-accent"} -->
+<p class="has-main-accent-color has-text-color">Email</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"base"} -->
+<p class="has-base-color has-text-color">mail@example.com</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"secondary"} -->
+<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" />
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"textColor":"main-accent"} -->
+<p class="has-main-accent-color has-text-color">Phone</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"base"} -->
+<p class="has-base-color has-text-color">815-420-2024</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"className":"is-style-separator-dotted","backgroundColor":"secondary"} -->
+<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" />
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"textColor":"main-accent"} -->
+<p class="has-main-accent-color has-text-color">Address</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"base"} -->
+<p class="has-base-color has-text-color">1234 Theme Street<br>San Francisco, CA 94070</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Testimonials"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"primary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-primary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|x-large"},"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"base","fontSize":"small"} -->
+<p class="has-text-align-center has-base-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Testimonials</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","textColor":"base"} -->
+<h2 class="wp-block-heading has-text-align-center has-base-color has-text-color">Meet our happy campers</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","textColor":"primary-accent"} -->
+<p class="has-text-align-center has-primary-accent-color has-text-color">Customer happiness as at the core of our business model. If our customers aren’t succeeding, we’re not succeeding. See what they’re saying below.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-large","left":"var:preset|spacing|x-large"},"margin":{"top":"0px","bottom":"0px"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base"} -->
+<div class="wp-block-column is-vertically-aligned-center has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Via Twitter →</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","iconBackgroundColor":"primary","iconBackgroundColorValue":"#4d34fa","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
+<ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"twitter"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"className":"is-style-separator-dotted","style":{"spacing":{"margin":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"backgroundColor":"secondary"} -->
+<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" style="margin-top:var(--wp--preset--spacing--medium);margin-bottom:var(--wp--preset--spacing--medium)" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">I love using WordPress but traditionally it has been hard to design in. Not any more! I can quickly build out page sections or full page designs with Moiraine patterns. Saves me so much time!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","margin":{"top":"var:preset|spacing|large"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--large)"><!-- wp:image {"id":59,"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-4.webp" alt="" class="wp-image-59" style="width:60px;height:60px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Maryann Alpine</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
+<p class="has-secondary-color has-text-color has-small-font-size">Software Engineer</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base"} -->
+<div class="wp-block-column is-vertically-aligned-center has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Via Facebook →</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","iconBackgroundColor":"primary","iconBackgroundColorValue":"#4d34fa","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
+<ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"facebook"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"className":"is-style-separator-dotted","style":{"spacing":{"margin":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"backgroundColor":"secondary"} -->
+<hr class="wp-block-separator has-text-color has-secondary-color has-alpha-channel-opacity has-secondary-background-color has-background is-style-separator-dotted" style="margin-top:var(--wp--preset--spacing--medium);margin-bottom:var(--wp--preset--spacing--medium)" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">I create a lot of landing pages, and the Site Editor and Moiraine have been huge for this. I can choose from a pre-designed landing page, customize my brand colors, and I’m ready to launch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","margin":{"top":"var:preset|spacing|large"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--large)"><!-- wp:image {"id":33082,"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-5.webp" alt="" class="wp-image-33082" style="width:60px;height:60px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong><strong>Alex Glacier</strong></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
+<p class="has-secondary-color has-text-color has-small-font-size">Brand Designer</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Frequently Asked","categories":["moiraine/features"],"patternName":"moiraine/faq"},"align":"full","className":"feature-boxes","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|x-large"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull feature-boxes" style="margin-top:0px;padding-top:var(--wp--preset--spacing--xx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Frequently Asked</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Learn about our product</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Got a question? We've got you covered! Check out the resources below and be sure to let us know if we can answer anything else.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"FAQ"},"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"blockGap":{"top":"var:preset|spacing|large","left":"var:preset|spacing|large"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"className":"is-style-default","style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
+<div class="wp-block-column is-style-default"><!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
+<h3 class="wp-block-heading has-medium-font-size">What exactly is Moiraine? </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Moiraine is a WordPress block theme that is designed to work with the new WordPress Site Editor. That means your site can be built with blocks, patterns, and other design elements that can be easily edited without any coding skills. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
+<h3 class="wp-block-heading has-medium-font-size">Do I need any other plugins?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nope! Moiraine is designed to work with the native WordPress editor, meaning you don't need a page builder plugin to build a beautiful website on WordPress anymore. Of course, you can continue using your favorite plugins alongside Moiraine!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"is-style-default","style":{"spacing":{"blockGap":"var:preset|spacing|medium"}}} -->
+<div class="wp-block-column is-style-default"><!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
+<h3 class="wp-block-heading has-medium-font-size">What if I've never used the Site Editor?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Don't worry, we'll show you around! The Site Editor is fairly new, and lots of folks are still trying it out for the first time. There's a lot to learn, but the site building power you'll unlock with all of the new design tools will be well worth it!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Entry"},"style":{"spacing":{"blockGap":"var:preset|spacing|medium"},"border":{"radius":"5px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-radius:5px"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"medium"} -->
+<h3 class="wp-block-heading has-medium-font-size">What are patterns? </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Patterns are pre-designed page elements that you can drag and drop to create unique designs. Moiraine comes with an extensive collection of expertly-designed patterns, but you can also design your own patterns.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"CTA Bar"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"radius":"5px"}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-tertiary-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"metadata":{"name":"Text"},"layout":{"type":"constrained","wideSize":"700px"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":58,"width":"76px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="https://moiraine-demo.test/wp-content/themes/moiraine/patterns/images/avatar-3.webp" alt="" class="wp-image-58" style="width:76px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="font-style:normal;font-weight:600">Still have questions?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Can't find what you're looking for? Let's have a chat!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Contact Us →</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-18 04:05:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-18 04:05:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-18 04:05:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-18 04:05:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Book]]></title>
 		<link>http://demo.imagewize.test/spa/book/</link>
 		<pubDate>Sat, 29 Mar 2025 02:51:19 +0000</pubDate>
@@ -3193,6 +3241,30 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>http://demo.imagewize.test/spa/blog/</link>
+		<pubDate>Tue, 18 Mar 2025 03:53:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-18 03:53:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-18 03:53:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-18 03:53:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-18 03:53:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[Relax & Rejuvenate with a Massage at Velora Spa]]></title>
 		<link>http://demo.imagewize.test/spa/relax-and-rejuvenate-with-a-massage-at-velora-spa/</link>
@@ -3394,13 +3466,61 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.imagewize.test/spa/?page_id=148</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"metadata":{"name":"Blog Post Columns","categories":["moiraine/posts"],"patternName":"moiraine/blog-post-columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Latest and Greatest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Read our latest blog articles</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Discover the latest tips on relaxation, wellness, and self-care. From soothing massage techniques to skincare secrets, our blog is your guide to feeling refreshed and rejuvenated. Unwind, explore, and let Beautify inspire your next spa experience!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false,"taxQuery":{"category":[70]}},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px","margin":{"top":"1.5rem"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-small","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-secondary-color has-text-color has-link-color has-x-small-font-size" style="margin-top:1.5rem"><!-- wp:post-author {"showAvatar":false} /-->
+
+<!-- wp:paragraph -->
+<p>·</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-date /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
+
+<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>148</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-29 03:09:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-03-29 03:09:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 05:25:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 05:25:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:21:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:21:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[spa]]></wp:post_name>
@@ -3410,7 +3530,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Meditation for All]]></title>
 		<link>http://demo.imagewize.test/spa/meditation-for-all/</link>
@@ -3836,6 +3960,614 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[5 Essential Self-Care Rituals to Rejuvenate Your Mind and Body]]></title>
+		<link>http://demo.imagewize.test/spa/5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body/</link>
+		<pubDate>Wed, 02 Apr 2025 06:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=371</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>In today’s fast-paced world, self-care is not a luxury but a necessity. At Beautify Spa &amp; Retreat, we believe in the power of rituals to restore balance and rejuvenate both mind and body. Here are five essential self-care rituals you can incorporate into your routine to feel your best.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Start Your Day with Mindful Meditation</strong><br>Take just 10 minutes every morning to focus on your breath and set a positive intention. At Beautify, we offer guided meditation sessions to help you develop a peaceful start to your day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Indulge in a Rejuvenating Facial</strong><br>Pamper yourself with a soothing facial that hydrates, brightens, and revitalizes your skin. Our signature treatments use organic ingredients to leave your skin glowing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Soothe Your Muscles with a Hot Stone Massage</strong><br>Melt away tension and stress with a hot stone massage. The combination of heat and massage therapy works wonders for relaxation and muscle recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Nourish Your Body with a Detox Smoothie</strong><br>Start your morning with a nutrient-packed detox smoothie. We recommend blending kale, spinach, green apple, and ginger for an energizing boost. Visit our spa cafe for fresh, wellness-focused drinks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. End Your Day with Aromatherapy</strong><br>Wind down with calming essential oils like lavender or eucalyptus. A soothing bath or massage with these oils helps relieve stress and promotes restful sleep.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Incorporating these self-care rituals into your routine can make a significant difference in your overall well-being. Visit Beautify Spa &amp; Retreat to experience these rejuvenating practices firsthand. Your mind and body will thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo by <a href="https://unsplash.com/@itsomidarmin?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">omid armin</a> on <a href="https://unsplash.com/photos/woman-taking-selfie-a5EbQpl-IHw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>371</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 06:02:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 06:02:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:08:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:08:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[beauty]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[377]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Why Regular Spa Visits Are More Than Just a Luxury]]></title>
+		<link>http://demo.imagewize.test/spa/why-regular-spa-visits-are-more-than-just-a-luxury/</link>
+		<pubDate>Wed, 02 Apr 2025 06:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=373</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>Many people see spa visits as an occasional treat, but incorporating regular spa time into your life can have profound health benefits. At Beautify Spa &amp; Retreat, we encourage our clients to view spa sessions as essential for maintaining well-being. Here’s why.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Stress Relief and Mental Clarity</strong><br>Regular massages and relaxation therapies help reduce cortisol levels and increase serotonin production. This combination is key for reducing anxiety and improving mood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Enhanced Skin Health</strong><br>Routine facials and body scrubs help detoxify the skin, clear pores, and improve circulation. This results in a naturally radiant complexion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Pain Management and Physical Well-Being</strong><br>Chronic pain, whether from stress or physical strain, can take a toll on your quality of life. Treatments like deep tissue massage and reflexology help alleviate discomfort and improve mobility.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Better Sleep Patterns</strong><br>Stress and tension can disrupt your sleep cycle. Spa treatments that focus on relaxation, like aromatherapy and hot stone massages, promote deeper, more restorative sleep.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. Boosted Self-Confidence</strong><br>Looking good and feeling good often go hand in hand. Taking time to care for your body not only enhances your physical appearance but also boosts your confidence and self-worth.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Regular spa visits are more than a luxury—they’re an investment in your mental and physical health. Treat yourself to the care you deserve at Beautify Spa &amp; Retreat and discover the transformative power of self-care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo by <a href="https://unsplash.com/@enginakyurt?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">engin akyurt</a> on <a href="https://unsplash.com/photos/white-and-brown-ceramic-figurine-ZbzYDboN7fg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 06:03:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 06:03:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 06:07:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 06:07:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[why-regular-spa-visits-are-more-than-just-a-luxury]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[beauty]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[375]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The Ultimate Guide to Spa Etiquette: What to Know Before Your First Visit]]></title>
+		<link>http://demo.imagewize.test/spa/the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit/</link>
+		<pubDate>Wed, 02 Apr 2025 07:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=385</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>Visiting a spa for the first time can be both exciting and a little daunting. At Beautify Spa, we want your experience to be as relaxing and enjoyable as possible. That’s why we’ve put together this guide to help you feel comfortable and confident when you step through our doors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Arrive Early to Relax</strong><br>To truly soak in the serene atmosphere, arrive at least 15 minutes before your appointment. This gives you time to unwind, enjoy a complimentary tea, and transition from your busy day into a state of relaxation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Communicate Your Preferences</strong><br>Whether it’s the massage pressure or the room temperature, don’t hesitate to speak up. Our therapists are here to ensure your comfort, and they appreciate your feedback.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Dress Comfortably</strong><br>Wear loose, comfortable clothing to your appointment. For most treatments, you’ll be given a robe and slippers, but arriving in relaxed attire helps you start your experience stress-free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Respect the Quiet Zones</strong><br>Spas are sanctuaries of peace, so remember to keep your phone on silent and speak softly in communal areas. It’s all about maintaining a calm environment for everyone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. Post-Treatment Tips</strong><br>After your session, drink plenty of water to help your body flush out toxins released during your treatment. Take a few moments to rest and let the relaxation linger.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Following these simple etiquette tips will ensure that your visit to Beautify Spa is nothing short of blissful. We look forward to welcoming you and helping you unwind in our tranquil retreat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo by <a href="https://unsplash.com/@aleromophotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Ale Romo</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-woman-hugging-baby-CLiwQXx7kT8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>385</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 07:18:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 07:18:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:18:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:18:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="spa"><![CDATA[spa]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[386]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Top 5 Spa Treatments to Melt Away Stress and Boost Wellness"]]></title>
+		<link>http://demo.imagewize.test/spa/top-5-spa-treatments-to-melt-away-stress-and-boost-wellness/</link>
+		<pubDate>Wed, 02 Apr 2025 07:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=388</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p><strong>Introduction:</strong><br>At Beautify Spa, we understand that life can be stressful. That’s why we’ve curated a selection of treatments specifically designed to help you relax, recharge, and feel your best. Here are our top five picks for stress relief and overall well-being.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Aromatherapy Massage</strong><br>Combining the power of essential oils with soothing massage techniques, this treatment eases muscle tension and calms the mind. Lavender and eucalyptus are particularly popular for promoting relaxation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Hot Stone Therapy</strong><br>Smooth, heated stones placed on key points of your body help relieve deep muscle tension. The warmth penetrates your muscles, melting away stress and boosting circulation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Deep Cleansing Facial</strong><br>Stress can take a toll on your skin, leading to breakouts or dullness. Our deep cleansing facial purifies and revitalizes, leaving you with a fresh, radiant glow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Herbal Body Wrap</strong><br>Indulge in a detoxifying body wrap infused with natural herbs. This treatment helps remove impurities while hydrating and nourishing your skin, leaving it soft and supple.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. Reflexology</strong><br>Focusing on pressure points in your hands and feet, reflexology not only reduces stress but also promotes better sleep and overall wellness. It’s a perfect way to rejuvenate from head to toe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Taking time to care for your mind and body is essential. Visit Beautify Spa to experience these rejuvenating treatments, and let us help you melt away the stress of daily life.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>388</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 07:19:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 07:19:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:19:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:19:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[top-5-spa-treatments-to-melt-away-stress-and-boost-wellness]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="spa"><![CDATA[spa]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[389]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/internormal400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>220</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[internormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;normal;500;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/internormal500100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal500100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-500-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>221</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[internormal500100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;normal;600;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/internormal600100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal600100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"600","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-600-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>222</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[internormal600100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;italic;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/interitalic400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/interitalic400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthiJ-Ek-7MeA.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-400-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>223</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[interitalic400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;italic;500;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/interitalic500100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/interitalic500100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"italic","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thiJ-Ek-7MeA.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-500-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>224</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[interitalic500100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[inter;italic;600;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/interitalic600100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/interitalic600100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"italic","fontWeight":"600","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhiJ-Ek-7MeA.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-600-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[interitalic600100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>208</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[bodoni moda;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/bodoni-modanormal400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-modanormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\"","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7awIVytVjMYwE.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>226</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bodoni-modanormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>209</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[bodoni moda;italic;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/bodoni-modaitalic400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-modaitalic400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\"","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZKMN4tHrJcwHqoQ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda-400-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>227</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bodoni-modaitalic400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>209</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[overpass;normal;300;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/overpassnormal300100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassnormal300100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"normal","fontWeight":"300","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPrPJCLtce-og.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-300-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>228</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overpassnormal300100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>210</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[overpass;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/overpassnormal400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassnormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrPJCLtce-og.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>229</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overpassnormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>210</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[overpass;italic;300;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/overpassitalic300100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassitalic300100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"italic","fontWeight":"300","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdepqKl8Kuosgz.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-300-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>230</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overpassitalic300100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>210</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[overpass;italic;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/overpassitalic400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassitalic400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADepqKl8Kuosgz.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-400-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>231</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overpassitalic400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>210</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[albert sans;normal;700;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/albert-sansnormal700100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sansnormal700100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\"","fontStyle":"normal","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_qY32TxAj1g.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans-700-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>232</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[albert-sansnormal700100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>211</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[albert sans;italic;700;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\"","fontStyle":"italic","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6If3bRUz1r5t.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans-700-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>233</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[albert-sansitalic700100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>211</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[lora;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Lora","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/0QI6MX1D_JOuGQbT0gvTJPa787weuyJDmKxemMeZ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>234</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[loranormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>212</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Essential Oil Blend]]></title>
 		<link>http://demo.imagewize.test/spa/product/essential-oil-blend/</link>
 		<pubDate>Sun, 30 Mar 2025 03:45:33 +0000</pubDate>
@@ -3862,8 +4594,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_size" nicename="1oz"><![CDATA[1oz]]></category>
 		<category domain="pa_size" nicename="2oz"><![CDATA[2oz]]></category>
-		<category domain="product_cat" nicename="aromatherapy"><![CDATA[Aromatherapy]]></category>
 		<category domain="product_tag" nicename="aromatherapy"><![CDATA[aromatherapy]]></category>
+		<category domain="product_cat" nicename="aromatherapy"><![CDATA[Aromatherapy]]></category>
 		<category domain="pa_scent" nicename="bergamot"><![CDATA[Bergamot]]></category>
 		<category domain="product_tag" nicename="essential-oil"><![CDATA[essential oil]]></category>
 		<category domain="pa_scent" nicename="eucalyptus"><![CDATA[Eucalyptus]]></category>
@@ -4444,596 +5176,6 @@ Suggested use: Take 1-2 capsules daily with meals for best results.]]></content:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[5 Essential Self-Care Rituals to Rejuvenate Your Mind and Body]]></title>
-		<link>http://demo.imagewize.test/spa/5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body/</link>
-		<pubDate>Wed, 02 Apr 2025 06:02:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=371</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
-<p>In today’s fast-paced world, self-care is not a luxury but a necessity. At Beautify Spa &amp; Retreat, we believe in the power of rituals to restore balance and rejuvenate both mind and body. Here are five essential self-care rituals you can incorporate into your routine to feel your best.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>1. Start Your Day with Mindful Meditation</strong><br>Take just 10 minutes every morning to focus on your breath and set a positive intention. At Beautify, we offer guided meditation sessions to help you develop a peaceful start to your day.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>2. Indulge in a Rejuvenating Facial</strong><br>Pamper yourself with a soothing facial that hydrates, brightens, and revitalizes your skin. Our signature treatments use organic ingredients to leave your skin glowing.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>3. Soothe Your Muscles with a Hot Stone Massage</strong><br>Melt away tension and stress with a hot stone massage. The combination of heat and massage therapy works wonders for relaxation and muscle recovery.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>4. Nourish Your Body with a Detox Smoothie</strong><br>Start your morning with a nutrient-packed detox smoothie. We recommend blending kale, spinach, green apple, and ginger for an energizing boost. Visit our spa cafe for fresh, wellness-focused drinks.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>5. End Your Day with Aromatherapy</strong><br>Wind down with calming essential oils like lavender or eucalyptus. A soothing bath or massage with these oils helps relieve stress and promotes restful sleep.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>Conclusion:</strong><br>Incorporating these self-care rituals into your routine can make a significant difference in your overall well-being. Visit Beautify Spa &amp; Retreat to experience these rejuvenating practices firsthand. Your mind and body will thank you!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Photo by <a href="https://unsplash.com/@itsomidarmin?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">omid armin</a> on <a href="https://unsplash.com/photos/woman-taking-selfie-a5EbQpl-IHw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>371</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-02 06:02:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-02 06:02:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 06:08:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 06:08:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[5-essential-self-care-rituals-to-rejuvenate-your-mind-and-body]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[beauty]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[377]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Why Regular Spa Visits Are More Than Just a Luxury]]></title>
-		<link>http://demo.imagewize.test/spa/why-regular-spa-visits-are-more-than-just-a-luxury/</link>
-		<pubDate>Wed, 02 Apr 2025 06:03:53 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=373</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
-<p>Many people see spa visits as an occasional treat, but incorporating regular spa time into your life can have profound health benefits. At Beautify Spa &amp; Retreat, we encourage our clients to view spa sessions as essential for maintaining well-being. Here’s why.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>1. Stress Relief and Mental Clarity</strong><br>Regular massages and relaxation therapies help reduce cortisol levels and increase serotonin production. This combination is key for reducing anxiety and improving mood.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>2. Enhanced Skin Health</strong><br>Routine facials and body scrubs help detoxify the skin, clear pores, and improve circulation. This results in a naturally radiant complexion.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>3. Pain Management and Physical Well-Being</strong><br>Chronic pain, whether from stress or physical strain, can take a toll on your quality of life. Treatments like deep tissue massage and reflexology help alleviate discomfort and improve mobility.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>4. Better Sleep Patterns</strong><br>Stress and tension can disrupt your sleep cycle. Spa treatments that focus on relaxation, like aromatherapy and hot stone massages, promote deeper, more restorative sleep.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>5. Boosted Self-Confidence</strong><br>Looking good and feeling good often go hand in hand. Taking time to care for your body not only enhances your physical appearance but also boosts your confidence and self-worth.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>Conclusion:</strong><br>Regular spa visits are more than a luxury—they’re an investment in your mental and physical health. Treat yourself to the care you deserve at Beautify Spa &amp; Retreat and discover the transformative power of self-care.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Photo by <a href="https://unsplash.com/@enginakyurt?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">engin akyurt</a> on <a href="https://unsplash.com/photos/white-and-brown-ceramic-figurine-ZbzYDboN7fg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>373</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-02 06:03:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-02 06:03:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 06:07:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 06:07:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[why-regular-spa-visits-are-more-than-just-a-luxury]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[beauty]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[375]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/internormal400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>220</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[internormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;normal;500;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/internormal500100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal500100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-500-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>221</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[internormal500100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;normal;600;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/internormal600100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/internormal600100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"normal","fontWeight":"600","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZ1rib2Bg-4.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-600-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[internormal600100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;italic;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/interitalic400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/interitalic400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthiJ-Ek-7MeA.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-400-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[interitalic400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;italic;500;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/interitalic500100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/interitalic500100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"italic","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thiJ-Ek-7MeA.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-500-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>224</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[interitalic500100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[inter;italic;600;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/interitalic600100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/interitalic600100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter","fontStyle":"italic","fontWeight":"600","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhiJ-Ek-7MeA.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter-600-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>225</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[interitalic600100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[bodoni moda;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/bodoni-modanormal400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-modanormal400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\"","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7awIVytVjMYwE.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>226</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bodoni-modanormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>209</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[bodoni moda;italic;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/bodoni-modaitalic400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-modaitalic400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\"","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZKMN4tHrJcwHqoQ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda-400-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>227</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bodoni-modaitalic400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>209</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[overpass;normal;300;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/overpassnormal300100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassnormal300100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"normal","fontWeight":"300","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPrPJCLtce-og.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-300-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>228</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpassnormal300100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>210</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[overpass;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/overpassnormal400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassnormal400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPrPJCLtce-og.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>229</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpassnormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>210</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[overpass;italic;300;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/overpassitalic300100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassitalic300100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"italic","fontWeight":"300","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdepqKl8Kuosgz.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-300-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>230</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpassitalic300100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>210</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[overpass;italic;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/overpassitalic400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpassitalic400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLADepqKl8Kuosgz.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass-400-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>231</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpassitalic400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>210</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[albert sans;normal;700;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/albert-sansnormal700100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sansnormal700100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\"","fontStyle":"normal","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_qY32TxAj1g.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans-700-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>232</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[albert-sansnormal700100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>211</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[albert sans;italic;700;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\"","fontStyle":"italic","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6If3bRUz1r5t.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans-700-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>233</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[albert-sansitalic700100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>211</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[lora;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Lora","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/0QI6MX1D_JOuGQbT0gvTJPa787weuyJDmKxemMeZ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>234</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[loranormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>212</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[lora;italic;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/loraitalic400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/loraitalic400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Lora","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkq18ndeZzZ0.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora-400-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>235</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[loraitalic400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>212</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[montserrat;normal;500;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/montserratnormal500100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserratnormal500100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"normal","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew7Y3tcoqK5.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-500-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>236</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserratnormal500100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>213</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[montserrat;normal;700;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/montserratnormal700100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserratnormal700100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"normal","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w7Y3tcoqK5.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-700-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>237</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserratnormal700100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>213</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[montserrat;italic;500;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/montserratitalic500100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:08 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserratitalic500100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"italic","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aXp-p7K5ILg.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-500-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>238</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserratitalic500100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>213</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Pure Collagen Supplement]]></title>
 		<link>http://demo.imagewize.test/spa/product/pure-collagen-supplement/</link>
 		<pubDate>Mon, 31 Mar 2025 01:22:39 +0000</pubDate>
@@ -5180,74 +5322,98 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Inter]]></title>
-		<link>http://demo.imagewize.test/spa/inter/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<title><![CDATA[lora;italic;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/loraitalic400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/inter/</guid>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/loraitalic400100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Inter, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"Lora","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkq18ndeZzZ0.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora-400-italic.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>208</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:post_id>235</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[inter]]></wp:post_name>
+		<wp:post_name><![CDATA[loraitalic400100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>212</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Bodoni Moda]]></title>
-		<link>http://demo.imagewize.test/spa/bodoni-moda/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<title><![CDATA[montserrat;normal;500;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/montserratnormal500100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-moda/</guid>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserratnormal500100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\", serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"normal","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew7Y3tcoqK5.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-500-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>209</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:post_id>236</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bodoni-moda]]></wp:post_name>
+		<wp:post_name><![CDATA[montserratnormal500100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>213</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Overpass]]></title>
-		<link>http://demo.imagewize.test/spa/overpass/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<title><![CDATA[montserrat;normal;700;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/montserratnormal700100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpass/</guid>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserratnormal700100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"normal","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w7Y3tcoqK5.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-700-normal.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>210</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:post_id>237</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpass]]></wp:post_name>
+		<wp:post_name><![CDATA[montserratnormal700100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>213</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[montserrat;italic;500;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/montserratitalic500100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/montserratitalic500100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"italic","fontWeight":"500","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aXp-p7K5ILg.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-500-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>238</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[montserratitalic500100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>213</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
@@ -5636,30 +5802,6 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[raleway;italic;700;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/ralewayitalic700100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/ralewayitalic700100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Raleway","fontStyle":"italic","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrEVIT9c2c8.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/raleway/raleway-700-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>255</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ralewayitalic700100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>219</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>http://demo.imagewize.test/spa/navigation/</link>
 		<pubDate>Thu, 27 Mar 2025 08:36:17 +0000</pubDate>
@@ -5787,6 +5929,78 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Inter]]></title>
+		<link>http://demo.imagewize.test/spa/inter/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/inter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Inter, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/inter/inter.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>208</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[inter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Bodoni Moda]]></title>
+		<link>http://demo.imagewize.test/spa/bodoni-moda/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/bodoni-moda/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Bodoni Moda\", serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/bodoni-moda/bodoni-moda.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>209</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bodoni-moda]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Overpass]]></title>
+		<link>http://demo.imagewize.test/spa/overpass/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/overpass/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>210</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[overpass]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
@@ -6007,6 +6221,30 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[raleway;italic;700;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/ralewayitalic700100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/ralewayitalic700100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Raleway","fontStyle":"italic","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrEVIT9c2c8.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/raleway/raleway-700-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>255</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ralewayitalic700100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>219</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Product Catalog]]></title>
 		<link>http://demo.imagewize.test/spa/archive-product/</link>
 		<pubDate>Wed, 02 Apr 2025 05:40:42 +0000</pubDate>
@@ -6028,7 +6266,7 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 <!-- wp:woocommerce/catalog-sorting /--></div>
 <!-- /wp:group -->
 
-<!-- wp:woocommerce/product-collection {"queryId":13,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":true,"taxQuery":[],"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":3,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."},"align":"wide"} -->
+<!-- wp:woocommerce/product-collection {"queryId":25,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":true,"taxQuery":[],"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."},"align":"wide"} -->
 <div class="wp-block-woocommerce-product-collection alignwide"><!-- wp:woocommerce/product-template -->
 <!-- wp:woocommerce/product-image {"imageSizing":"thumbnail","isDescendentOfQueryLoop":true} /-->
 
@@ -6106,8 +6344,8 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:post_id>369</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-02 05:40:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-04-02 05:40:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 05:40:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 05:40:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:15:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:15:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive-product]]></wp:post_name>
