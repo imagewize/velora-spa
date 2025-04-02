@@ -89,7 +89,9 @@ The theme includes custom block patterns designed specifically for spa and welln
 - **Header Top Bar with Centered Menu** (`patterns/header-top-bar-centered-menu.php`): A header layout with top utility bar and centered navigation
 - **Overlapping Feature Columns** (`patterns/overlapping-feature-columns.php`): Showcase services or features with visually overlapping columns
 - **Overlapping Feature Columns Reversed** (`patterns/overlapping-feature-columns-reversed.php`): Same as Overlapping Feature Columns but with reversed layout - text on left, image on right
+- **Overlapping Review** (`patterns/review-text-image-overlap.php`): A two-column review with image and overlapping text block
 - **Shop Overview Three Columns** (`patterns/shop-overview-three-columns.php`): Display products in an elegant three-column layout
+- **Spa Testimonials Grid** (`patterns/testimonials-grid.php`): A responsive grid of customer testimonials for spa and wellness services
 - **Two Column Feature** (`patterns/two-column-feature.php`): Highlight a service or feature in a two-column layout with image and text
 - **Two Column Review** (`patterns/two-column-review.php`): Display customer testimonials in a two-column layout
 
