@@ -25,6 +25,16 @@ function spa_theme_register_pattern_categories() {
         'moiraine/posts',
         array('label' => __('Posts', 'spa-theme'))
     );
+
+    register_block_pattern_category(
+        'moiraine/call-to-action',
+        array('label' => __('Call To Action', 'spa-theme'))
+    );
+
+    register_block_pattern_category(
+        'moiraine/testimonials',
+        array('label' => __('Testimonials', 'spa-theme'))
+    );
     
     // You can add more parent theme categories as needed
 }
