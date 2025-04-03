@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-03 08:47" -->
+	<!-- generator="WordPress/6.7.2" created="2025-04-03 09:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Velora</title>
 	<link>http://demo.imagewize.test/spa</link>
 	<description>Spa &#38; Retreat</description>
-	<pubDate>Thu, 03 Apr 2025 08:47:22 +0000</pubDate>
+	<pubDate>Thu, 03 Apr 2025 09:49:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.imagewize.test/</wp:base_site_url>
@@ -1533,370 +1533,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>http://demo.imagewize.test/spa/</link>
-		<pubDate>Tue, 18 Mar 2025 03:13:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/overlapping-feature-columns","name":"Overlapping Feature Columns"},"align":"full","className":"is-style-overlap-columns","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}},"backgroundColor":"tertiary"} -->
-<div class="wp-block-columns alignfull is-style-overlap-columns has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/yoga-pose.jpg" alt="Spa treatment"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%","className":"overlap-column"} -->
-<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
-<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"main","fontSize":"small"} -->
-<p class="has-main-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">spa &amp; Retreat</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontFamily":"var:preset|font-family|cormorant-garamond"},"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base"} -->
-<h2 class="wp-block-heading has-base-color has-text-color has-link-color" style="margin-top:0.5rem;margin-bottom:1.5rem;font-family:var(--wp--preset--font-family--cormorant-garamond)">Welcome to Velora</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Escape the hustle and embrace tranquility with our curated wellness experiences. From soothing massages to revitalizing therapies, immerse yourself in a journey of relaxation and rejuvenation</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Learn more →</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/four-column-wellness-posts","name":"Four Column Wellness Posts"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"layout":{"type":"constrained","contentSize":"1400px"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"spacing":{"margin":{"bottom":"3rem"}}},"fontSize":"x-large","fontFamily":"heading"} -->
-<h2 class="wp-block-heading has-text-align-center has-heading-font-family has-x-large-font-size" style="margin-bottom:3rem;font-style:normal;font-weight:600">Wellness</h2>
-<!-- /wp:heading -->
-
-<!-- wp:query {"queryId":1,"query":{"perPage":"4","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
-<div class="wp-block-query"><!-- wp:post-template {"className":"spa-post-grid","layout":{"type":"grid","columnCount":4}} -->
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"1.5rem"}}}} -->
-<div class="wp-block-group" style="padding-top:0;padding-bottom:1.5rem"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/4","height":"290px"} /-->
-
-<!-- wp:post-date {"style":{"spacing":{"margin":{"top":"1rem","bottom":"0.5rem"}},"typography":{"fontStyle":"normal","fontWeight":"500"},"color":{"text":"var:preset|color|primary"}},"fontSize":"small"} /-->
-
-<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontWeight":"600"}},"fontSize":"medium","fontFamily":"cormorant-garamond"} /--></div>
-<!-- /wp:group -->
-<!-- /wp:post-template --></div>
-<!-- /wp:query --></div>
-<!-- /wp:group -->
-
-<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/review-text-image-overlap","name":"Overlapping Review"},"align":"wide","className":"is-style-overlap-columns-reversed","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns alignwide is-style-overlap-columns-reversed" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"50%","className":"overlap-column"} -->
-<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
-<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph -->
-<p>"The treatment I received at this spa exceeded all my expectations. The staff was professional and attentive, making me feel valued throughout my visit."</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:separator {"className":"is-style-wide","backgroundColor":"border-light"} -->
-<hr class="wp-block-separator has-text-color has-border-light-color has-alpha-channel-opacity has-border-light-background-color has-background is-style-wide"/>
-<!-- /wp:separator -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
-<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-thumbnail is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/review-profile.jpg" alt="Emma Johnson" style="object-fit:cover"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"}}} -->
-<p style="font-style:normal;font-weight:600">Emma Johnson</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Regular Client</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/spa-treatment-landscape.jpg" alt="Natural wellness supplements"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:group {"metadata":{"name":"Blog Post Columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Latest and Greatest</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Read our latest blog articles</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Learn the latest and greatest at the Valora Spa &amp; Retreat and the larger Wellness World. Immerse yourself in the world of meditation, beautify and general well being.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"align":"wide"} -->
-<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
-<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"5px","margin":{"top":"1.5rem"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-small","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left","verticalAlignment":"center"}} -->
-<div class="wp-block-group has-secondary-color has-text-color has-link-color has-x-small-font-size" style="margin-top:1.5rem"><!-- wp:post-author {"showAvatar":false} /-->
-
-<!-- wp:paragraph -->
-<p>·</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:post-date /--></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
-
-<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
-<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-<!-- /wp:post-template --></div>
-<!-- /wp:query --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Testimonials","categories":["moiraine/testimonials"],"patternName":"spa-theme/testimonials-grid"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Client Stories</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Transformative Experiences</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Our clients' wellbeing is at the heart of everything we do. We're honored to be part of their wellness journeys and delighted to share their experiences.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","minimumColumnWidth":"22rem"}} -->
-<div class="wp-block-group alignwide"><!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px","width":"1px"}},"backgroundColor":"base","borderColor":"border-light","layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch","verticalAlignment":"space-between"}} -->
-<div class="wp-block-group has-border-color has-border-light-border-color has-base-background-color has-background" style="border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">The hot stone massage was absolutely life-changing. I've had chronic back pain for years, and just one session provided more relief than months of other treatments. The therapist was incredibly knowledgeable and attentive to my specific needs.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/avatar-1.webp" alt="Woman smiling" style="width:60px;height:60px"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>Nicolas Johnson</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Monthly Member</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px","width":"1px"}},"backgroundColor":"base","borderColor":"border-light","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"stretch"}} -->
-<div class="wp-block-group has-border-color has-border-light-border-color has-base-background-color has-background" style="border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">The organic facial completely transformed my skin. After struggling with sensitivity and dryness for years, I finally found a skincare treatment that works with my skin instead of against it. The difference was noticeable immediately.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/avatar-2.webp" alt="Man with glasses" style="width:60px;height:60px"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>Samantha Chen</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">First-time Visitor</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px","width":"1px"}},"backgroundColor":"base","borderColor":"border-light","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"stretch"}} -->
-<div class="wp-block-group has-border-color has-border-light-border-color has-base-background-color has-background" style="border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">The weekend wellness retreat was exactly what I needed. From the meditation sessions to the nutritious meals and aromatherapy workshops, every detail was thoughtfully curated. I left feeling completely renewed and with practical tools for daily wellness.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
-<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/avatar-3.webp" alt="Woman with curly hair" style="width:60px;height:60px"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>Olivia Martinez</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
-<p class="has-secondary-color has-text-color has-small-font-size">Retreat Participant</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:woocommerce/product-collection {"queryId":23,"query":{"perPage":3,"pages":1,"offset":0,"postType":"product","order":"desc","orderBy":"date","search":"","exclude":[],"inherit":false,"taxQuery":{},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"timeFrame":{"operator":"in","value":"-7 days"},"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":3,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"collection":"woocommerce/product-collection/new-arrivals","hideControls":["inherit","order","filterable"],"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."},"align":"wide"} -->
-<div class="wp-block-woocommerce-product-collection alignwide"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"1rem"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="margin-bottom:1rem">New arrivals</h2>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-template -->
-<!-- wp:woocommerce/product-image {"imageSizing":"thumbnail","isDescendentOfQueryLoop":true} /-->
-
-<!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"spacing":{"margin":{"bottom":"0.75rem","top":"0"}}},"fontSize":"medium","__woocommerceNamespace":"woocommerce/product-collection/product-title"} /-->
-
-<!-- wp:woocommerce/product-price {"isDescendentOfQueryLoop":true,"textAlign":"center","fontSize":"small"} /-->
-
-<!-- wp:woocommerce/product-button {"textAlign":"center","isDescendentOfQueryLoop":true,"fontSize":"small"} /-->
-<!-- /wp:woocommerce/product-template --></div>
-<!-- /wp:woocommerce/product-collection -->
-
-<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/overlapping-feature-columns-reversed","name":"Overlapping Feature Columns Reversed"},"align":"wide","className":"is-style-overlap-columns-reversed","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns alignwide is-style-overlap-columns-reversed" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"50%","className":"overlap-column"} -->
-<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
-<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"primary","fontSize":"small"} -->
-<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">Supplements</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontFamily":"var:preset|font-family|cormorant-garamond"},"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}}}} -->
-<h2 class="wp-block-heading" style="margin-top:0.5rem;margin-bottom:1.5rem;font-family:var(--wp--preset--font-family--cormorant-garamond)">Natural Supplements for Everyday Wellness</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Our premium Turmeric &amp; Ginger Tummies provide anti-inflammatory benefits while supporting digestion. Pair with our Pure Collagen supplement to promote skin elasticity and joint health for a complete wellness routine.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="http://demo.imagewize.test/spa/shop/" data-type="page" data-id="201">Shop supplements →</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/shop/supplements.jpg" alt="Natural wellness supplements"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-18 03:13:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-18 03:13:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-03 07:39:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-03 07:39:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Wellness]]></title>
-		<link>http://demo.imagewize.test/spa/wellness/</link>
-		<pubDate>Tue, 18 Mar 2025 03:29:20 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Blog Post Columns","categories":["moiraine/posts"],"patternName":"moiraine/blog-post-columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false,"taxQuery":{"category":[6]}},"align":"wide"} -->
-<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
-<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
-
-<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
-<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-<!-- /wp:post-template --></div>
-<!-- /wp:query --></div>
-<!-- /wp:group -->
-
-<!-- wp:cover {"url":"http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-hot-stones.jpg","id":375,"dimRatio":50,"customOverlayColor":"#c8a993","isUserOverlayColor":false,"isDark":false,"align":"wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignwide is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#c8a993"></span><img class="wp-block-cover__image-background wp-image-375" alt="" src="http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-hot-stones.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|small","right":"var:preset|spacing|small"},"margin":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large"}}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
-<div class="wp-block-group has-base-background-color has-background" style="margin-top:var(--wp--preset--spacing--xx-large);margin-bottom:var(--wp--preset--spacing--xx-large);padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--small)"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size"><br><strong>TRENDING •</strong> WELNESS<br><br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">How to Start Your Wellness Plan<br></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size"><br>READ MORE<br></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:cover -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-18 03:29:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-18 03:29:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 07:47:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 07:47:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wellness]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>http://demo.imagewize.test/spa/?page_id=205</link>
 		<pubDate></pubDate>
@@ -2612,6 +2248,72 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[spa-treatment-landscape]]></title>
+		<link>http://demo.imagewize.test/spa/home/spa-treatment-landscape/</link>
+		<pubDate>Thu, 03 Apr 2025 09:37:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-landscape.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>475</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-03 09:37:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-03 09:37:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-03 09:37:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-03 09:37:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[spa-treatment-landscape]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>11</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-landscape.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/spa-treatment-landscape.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1318;s:6:"height";i:881;s:4:"file";s:35:"2025/04/spa-treatment-landscape.jpg";s:8:"filesize";i:870222;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:35:"spa-treatment-landscape-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18679;}s:5:"large";a:5:{s:4:"file";s:36:"spa-treatment-landscape-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111109;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"spa-treatment-landscape-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10123;}s:12:"medium_large";a:5:{s:4:"file";s:35:"spa-treatment-landscape-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70011;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:35:"spa-treatment-landscape-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22114;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:35:"spa-treatment-landscape-600x401.jpg";s:5:"width";i:600;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47689;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:35:"spa-treatment-landscape-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7467;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[back-massage]]></title>
+		<link>http://demo.imagewize.test/spa/home/back-massage/</link>
+		<pubDate>Thu, 03 Apr 2025 09:42:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/app/uploads/sites/2/2025/04/back-massage.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>477</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-03 09:42:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-03 09:42:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-03 09:42:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-03 09:42:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[back-massage]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>11</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.imagewize.test/app/uploads/sites/2/2025/04/back-massage.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/back-massage.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:24:"2025/04/back-massage.jpg";s:8:"filesize";i:433673;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:24:"back-massage-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14002;}s:5:"large";a:5:{s:4:"file";s:25:"back-massage-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88461;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"back-massage-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8868;}s:12:"medium_large";a:5:{s:4:"file";s:24:"back-massage-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52742;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:24:"back-massage-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17526;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:24:"back-massage-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35116;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:24:"back-massage-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6786;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Nourish Your Skin with Our Luxurious Facial Cream]]></title>
 		<link>http://demo.imagewize.test/spa/nourish-your-skin-with-our-luxurious-facial-cream/</link>
 		<pubDate>Thu, 27 Mar 2025 08:34:59 +0000</pubDate>
@@ -2741,6 +2443,374 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>http://demo.imagewize.test/spa/</link>
+		<pubDate>Tue, 18 Mar 2025 03:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/overlapping-feature-columns","name":"Overlapping Feature Columns"},"align":"full","className":"is-style-overlap-columns","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}},"backgroundColor":"tertiary"} -->
+<div class="wp-block-columns alignfull is-style-overlap-columns has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"id":477,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/uploads/sites/2/2025/04/back-massage-1024x683.jpg" alt="" class="wp-image-477"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%","className":"overlap-column"} -->
+<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
+<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">spa &amp; Retreat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontFamily":"var:preset|font-family|cormorant-garamond"},"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}}}} -->
+<h2 class="wp-block-heading" style="margin-top:0.5rem;margin-bottom:1.5rem;font-family:var(--wp--preset--font-family--cormorant-garamond)">Welcome to Velora</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Escape the hustle and embrace tranquility with our curated wellness experiences. From soothing massages to revitalizing therapies, immerse yourself in a journey of relaxation and rejuvenation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Learn more →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/four-column-wellness-posts","name":"Four Column Wellness Posts"},"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"layout":{"type":"constrained","contentSize":"1400px"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"spacing":{"margin":{"bottom":"3rem"}}},"fontSize":"x-large","fontFamily":"heading"} -->
+<h2 class="wp-block-heading has-text-align-center has-heading-font-family has-x-large-font-size" style="margin-bottom:3rem;font-style:normal;font-weight:600">Wellness</h2>
+<!-- /wp:heading -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"4","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template {"className":"spa-post-grid","layout":{"type":"grid","columnCount":4}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"1.5rem"}}}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:1.5rem"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/4","height":"290px"} /-->
+
+<!-- wp:post-date {"style":{"spacing":{"margin":{"top":"1rem","bottom":"0.5rem"}},"typography":{"fontStyle":"normal","fontWeight":"500"},"color":{"text":"var:preset|color|primary"}},"fontSize":"small"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontWeight":"600"}},"fontSize":"medium","fontFamily":"cormorant-garamond"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/review-text-image-overlap","name":"Overlapping Review"},"align":"wide","className":"is-style-overlap-columns-reversed","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
+<div class="wp-block-columns alignwide is-style-overlap-columns-reversed" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"50%","className":"overlap-column"} -->
+<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
+<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph -->
+<p>"The treatment I received at this spa exceeded all my expectations. The staff was professional and attentive, making me feel valued throughout my visit."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"className":"is-style-wide","backgroundColor":"border-light"} -->
+<hr class="wp-block-separator has-text-color has-border-light-color has-alpha-channel-opacity has-border-light-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-thumbnail is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/review-profile.jpg" alt="Emma Johnson" style="object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"}}} -->
+<p style="font-style:normal;font-weight:600">Emma Johnson</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Regular Client</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/spa-treatment-landscape.jpg" alt="Natural wellness supplements"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"metadata":{"name":"Blog Post Columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Latest and Greatest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Read our latest blog articles</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Learn the latest and greatest at the Valora Spa &amp; Retreat and the larger Wellness World. Immerse yourself in the world of meditation, beautify and general well being.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px","margin":{"top":"1.5rem"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-small","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"left","verticalAlignment":"center"}} -->
+<div class="wp-block-group has-secondary-color has-text-color has-link-color has-x-small-font-size" style="margin-top:1.5rem"><!-- wp:post-author {"showAvatar":false} /-->
+
+<!-- wp:paragraph -->
+<p>·</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-date /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
+
+<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Testimonials","categories":["moiraine/testimonials"],"patternName":"spa-theme/testimonials-grid"},"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"metadata":{"name":"Titles"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500">Client Stories</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Transformative Experiences</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Our clients' wellbeing is at the heart of everything we do. We're honored to be part of their wellness journeys and delighted to share their experiences.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","minimumColumnWidth":"22rem"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px","width":"1px"}},"backgroundColor":"base","borderColor":"border-light","layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group has-border-color has-border-light-border-color has-base-background-color has-background" style="border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">The hot stone massage was absolutely life-changing. I've had chronic back pain for years, and just one session provided more relief than months of other treatments. The therapist was incredibly knowledgeable and attentive to my specific needs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/avatar-1.webp" alt="Woman smiling" style="width:60px;height:60px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Nicolas Johnson</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
+<p class="has-secondary-color has-text-color has-small-font-size">Monthly Member</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px","width":"1px"}},"backgroundColor":"base","borderColor":"border-light","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"stretch"}} -->
+<div class="wp-block-group has-border-color has-border-light-border-color has-base-background-color has-background" style="border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">The organic facial completely transformed my skin. After struggling with sensitivity and dryness for years, I finally found a skincare treatment that works with my skin instead of against it. The difference was noticeable immediately.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/avatar-2.webp" alt="Man with glasses" style="width:60px;height:60px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Samantha Chen</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
+<p class="has-secondary-color has-text-color has-small-font-size">First-time Visitor</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Testimonial"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large","right":"var:preset|spacing|large"}},"border":{"radius":"5px","width":"1px"}},"backgroundColor":"base","borderColor":"border-light","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between","justifyContent":"stretch"}} -->
+<div class="wp-block-group has-border-color has-border-light-border-color has-base-background-color has-background" style="border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">The weekend wellness retreat was exactly what I needed. From the meditation sessions to the nutritious meals and aromatherapy workshops, every detail was thoughtfully curated. I left feeling completely renewed and with practical tools for daily wellness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"width":"60px","height":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded-full"} -->
+<figure class="wp-block-image size-full is-resized is-style-rounded-full"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/avatar-3.webp" alt="Woman with curly hair" style="width:60px;height:60px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Olivia Martinez</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"secondary","fontSize":"small"} -->
+<p class="has-secondary-color has-text-color has-small-font-size">Retreat Participant</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:woocommerce/product-collection {"queryId":5,"query":{"perPage":3,"pages":1,"offset":0,"postType":"product","order":"desc","orderBy":"date","search":"","exclude":[],"inherit":false,"taxQuery":{},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"timeFrame":{"operator":"in","value":"-7 days"},"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":3,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"collection":"woocommerce/product-collection/new-arrivals","hideControls":["inherit","order","filterable"],"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."},"align":"wide"} -->
+<div class="wp-block-woocommerce-product-collection alignwide"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"1rem"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-bottom:1rem">New arrivals</h2>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-template -->
+<!-- wp:woocommerce/product-image {"imageSizing":"thumbnail","isDescendentOfQueryLoop":true} /-->
+
+<!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"spacing":{"margin":{"bottom":"0.75rem","top":"0"}}},"fontSize":"medium","__woocommerceNamespace":"woocommerce/product-collection/product-title"} /-->
+
+<!-- wp:woocommerce/product-price {"isDescendentOfQueryLoop":true,"textAlign":"center","fontSize":"small"} /-->
+
+<!-- wp:woocommerce/product-button {"textAlign":"center","isDescendentOfQueryLoop":true,"fontSize":"small"} /-->
+<!-- /wp:woocommerce/product-template --></div>
+<!-- /wp:woocommerce/product-collection -->
+
+<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/overlapping-feature-columns-reversed","name":"Overlapping Feature Columns Reversed"},"align":"wide","className":"is-style-overlap-columns-reversed","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}}} -->
+<div class="wp-block-columns alignwide is-style-overlap-columns-reversed" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"50%","className":"overlap-column"} -->
+<div class="wp-block-column overlap-column" style="flex-basis:50%"><!-- wp:group {"className":"has-box-shadow","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"backgroundColor":"base"} -->
+<div class="wp-block-group has-box-shadow has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase","letterSpacing":"2px"}},"textColor":"primary","fontSize":"small"} -->
+<p class="has-primary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:2px;text-transform:uppercase">Supplements</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontFamily":"var:preset|font-family|cormorant-garamond"},"spacing":{"margin":{"top":"0.5rem","bottom":"1.5rem"}}}} -->
+<h2 class="wp-block-heading" style="margin-top:0.5rem;margin-bottom:1.5rem;font-family:var(--wp--preset--font-family--cormorant-garamond)">Natural Supplements for Everyday Wellness</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our premium Turmeric &amp; Ginger Tummies provide anti-inflammatory benefits while supporting digestion. Pair with our Pure Collagen supplement to promote skin elasticity and joint health for a complete wellness routine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://demo.imagewize.test/spa/shop/" data-type="page" data-id="201">Shop supplements →</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="http://demo.imagewize.test/app/themes/spa-theme/assets/images/shop/supplements.jpg" alt="Natural wellness supplements"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-18 03:13:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-18 03:13:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-03 09:47:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-03 09:47:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Wellness]]></title>
+		<link>http://demo.imagewize.test/spa/wellness/</link>
+		<pubDate>Tue, 18 Mar 2025 03:29:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://moiraine-demo.test/?page_id=10</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Blog Post Columns","categories":["moiraine/posts"],"patternName":"moiraine/blog-post-columns"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxx-large","bottom":"var:preset|spacing|xxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"margin":{"top":"0px","bottom":"0px"},"blockGap":"var:preset|spacing|x-large"}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-tertiary-background-color has-background" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:query {"queryId":1,"query":{"perPage":"2","pages":"2","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false,"taxQuery":{"category":[6]}},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}},"border":{"radius":"5px"}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="border-radius:5px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:group {"metadata":{"name":"Post Content"},"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"height":"300px","style":{"border":{"radius":"5px"}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"typography":{"textDecoration":"none","fontStyle":"normal","fontWeight":"600","lineHeight":"1.3"}},"fontSize":"medium"} /-->
+
+<!-- wp:post-excerpt {"moreText":"","showMoreOnNewLine":false,"className":"is-style-excerpt-truncate-3","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Post Meta"},"style":{"spacing":{"blockGap":"1px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"x-small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-hot-stones.jpg","id":375,"dimRatio":50,"customOverlayColor":"#c8a993","isUserOverlayColor":false,"isDark":false,"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignwide is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#c8a993"></span><img class="wp-block-cover__image-background wp-image-375" alt="" src="http://demo.imagewize.test/app/uploads/sites/2/2025/04/spa-treatment-hot-stones.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|small","right":"var:preset|spacing|small"},"margin":{"top":"var:preset|spacing|xx-large","bottom":"var:preset|spacing|xx-large"}}},"backgroundColor":"base","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="margin-top:var(--wp--preset--spacing--xx-large);margin-bottom:var(--wp--preset--spacing--xx-large);padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--small)"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><br><strong>TRENDING •</strong> WELNESS<br><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">How to Start Your Wellness Plan<br></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size"><br>READ MORE<br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-18 03:29:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-18 03:29:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:47:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:47:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wellness]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>http://demo.imagewize.test/spa/contact-us/</link>
@@ -3988,120 +4058,6 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[The Ultimate Guide to Spa Etiquette: What to Know Before Your First Visit]]></title>
-		<link>http://demo.imagewize.test/spa/the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit/</link>
-		<pubDate>Wed, 02 Apr 2025 07:18:13 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=385</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
-<p>Visiting a spa for the first time can be both exciting and a little daunting. At Beautify Spa, we want your experience to be as relaxing and enjoyable as possible. That’s why we’ve put together this guide to help you feel comfortable and confident when you step through our doors.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>1. Arrive Early to Relax</strong><br>To truly soak in the serene atmosphere, arrive at least 15 minutes before your appointment. This gives you time to unwind, enjoy a complimentary tea, and transition from your busy day into a state of relaxation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>2. Communicate Your Preferences</strong><br>Whether it’s the massage pressure or the room temperature, don’t hesitate to speak up. Our therapists are here to ensure your comfort, and they appreciate your feedback.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>3. Dress Comfortably</strong><br>Wear loose, comfortable clothing to your appointment. For most treatments, you’ll be given a robe and slippers, but arriving in relaxed attire helps you start your experience stress-free.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>4. Respect the Quiet Zones</strong><br>Spas are sanctuaries of peace, so remember to keep your phone on silent and speak softly in communal areas. It’s all about maintaining a calm environment for everyone.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>5. Post-Treatment Tips</strong><br>After your session, drink plenty of water to help your body flush out toxins released during your treatment. Take a few moments to rest and let the relaxation linger.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>Conclusion:</strong><br>Following these simple etiquette tips will ensure that your visit to Beautify Spa is nothing short of blissful. We look forward to welcoming you and helping you unwind in our tranquil retreat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Photo by <a href="https://unsplash.com/@aleromophotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Ale Romo</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-woman-hugging-baby-CLiwQXx7kT8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>385</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-02 07:18:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-02 07:18:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 07:18:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 07:18:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="spa"><![CDATA[spa]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[386]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Top 5 Spa Treatments to Melt Away Stress and Boost Wellness"]]></title>
-		<link>http://demo.imagewize.test/spa/top-5-spa-treatments-to-melt-away-stress-and-boost-wellness/</link>
-		<pubDate>Wed, 02 Apr 2025 07:19:42 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=388</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
-<p><strong>Introduction:</strong><br>At Beautify Spa, we understand that life can be stressful. That’s why we’ve curated a selection of treatments specifically designed to help you relax, recharge, and feel your best. Here are our top five picks for stress relief and overall well-being.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>1. Aromatherapy Massage</strong><br>Combining the power of essential oils with soothing massage techniques, this treatment eases muscle tension and calms the mind. Lavender and eucalyptus are particularly popular for promoting relaxation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>2. Hot Stone Therapy</strong><br>Smooth, heated stones placed on key points of your body help relieve deep muscle tension. The warmth penetrates your muscles, melting away stress and boosting circulation.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>3. Deep Cleansing Facial</strong><br>Stress can take a toll on your skin, leading to breakouts or dullness. Our deep cleansing facial purifies and revitalizes, leaving you with a fresh, radiant glow.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>4. Herbal Body Wrap</strong><br>Indulge in a detoxifying body wrap infused with natural herbs. This treatment helps remove impurities while hydrating and nourishing your skin, leaving it soft and supple.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>5. Reflexology</strong><br>Focusing on pressure points in your hands and feet, reflexology not only reduces stress but also promotes better sleep and overall wellness. It’s a perfect way to rejuvenate from head to toe.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":""} -->
-<p><strong>Conclusion:</strong><br>Taking time to care for your mind and body is essential. Visit Beautify Spa to experience these rejuvenating treatments, and let us help you melt away the stress of daily life.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>388</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-02 07:19:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-04-02 07:19:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-02 07:19:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-02 07:19:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[top-5-spa-treatments-to-melt-away-stress-and-boost-wellness]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="spa"><![CDATA[spa]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[389]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
 		<link>http://demo.imagewize.test/spa/internormal400100u0-10ffff/</link>
 		<pubDate>Sun, 30 Mar 2025 02:00:05 +0000</pubDate>
@@ -4414,54 +4370,6 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[albert sans;italic;700;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\"","fontStyle":"italic","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6If3bRUz1r5t.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans-700-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>233</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[albert-sansitalic700100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>211</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[lora;normal;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Lora","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/0QI6MX1D_JOuGQbT0gvTJPa787weuyJDmKxemMeZ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora-400-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>234</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[loranormal400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>212</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Essential Oil Blend]]></title>
 		<link>http://demo.imagewize.test/spa/product/essential-oil-blend/</link>
 		<pubDate>Sun, 30 Mar 2025 03:45:33 +0000</pubDate>
@@ -4488,8 +4396,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_size" nicename="1oz"><![CDATA[1oz]]></category>
 		<category domain="pa_size" nicename="2oz"><![CDATA[2oz]]></category>
-		<category domain="product_tag" nicename="aromatherapy"><![CDATA[aromatherapy]]></category>
 		<category domain="product_cat" nicename="aromatherapy"><![CDATA[Aromatherapy]]></category>
+		<category domain="product_tag" nicename="aromatherapy"><![CDATA[aromatherapy]]></category>
 		<category domain="pa_scent" nicename="bergamot"><![CDATA[Bergamot]]></category>
 		<category domain="product_tag" nicename="essential-oil"><![CDATA[essential oil]]></category>
 		<category domain="pa_scent" nicename="eucalyptus"><![CDATA[Eucalyptus]]></category>
@@ -4773,8 +4681,8 @@ Perfect for professional massage therapists or home use.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_formula" nicename="energizing"><![CDATA[Energizing]]></category>
-		<category domain="product_tag" nicename="massage"><![CDATA[massage]]></category>
 		<category domain="product_cat" nicename="massage"><![CDATA[Massage]]></category>
+		<category domain="product_tag" nicename="massage"><![CDATA[massage]]></category>
 		<category domain="product_tag" nicename="oil"><![CDATA[oil]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_tag" nicename="relaxation"><![CDATA[relaxation]]></category>
@@ -5216,6 +5124,168 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[The Ultimate Guide to Spa Etiquette: What to Know Before Your First Visit]]></title>
+		<link>http://demo.imagewize.test/spa/the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit/</link>
+		<pubDate>Wed, 02 Apr 2025 07:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=385</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p>Visiting a spa for the first time can be both exciting and a little daunting. At Beautify Spa, we want your experience to be as relaxing and enjoyable as possible. That’s why we’ve put together this guide to help you feel comfortable and confident when you step through our doors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Arrive Early to Relax</strong><br>To truly soak in the serene atmosphere, arrive at least 15 minutes before your appointment. This gives you time to unwind, enjoy a complimentary tea, and transition from your busy day into a state of relaxation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Communicate Your Preferences</strong><br>Whether it’s the massage pressure or the room temperature, don’t hesitate to speak up. Our therapists are here to ensure your comfort, and they appreciate your feedback.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Dress Comfortably</strong><br>Wear loose, comfortable clothing to your appointment. For most treatments, you’ll be given a robe and slippers, but arriving in relaxed attire helps you start your experience stress-free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Respect the Quiet Zones</strong><br>Spas are sanctuaries of peace, so remember to keep your phone on silent and speak softly in communal areas. It’s all about maintaining a calm environment for everyone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. Post-Treatment Tips</strong><br>After your session, drink plenty of water to help your body flush out toxins released during your treatment. Take a few moments to rest and let the relaxation linger.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Following these simple etiquette tips will ensure that your visit to Beautify Spa is nothing short of blissful. We look forward to welcoming you and helping you unwind in our tranquil retreat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo by <a href="https://unsplash.com/@aleromophotography?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Ale Romo</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-woman-hugging-baby-CLiwQXx7kT8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>385</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 07:18:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 07:18:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:18:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:18:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-ultimate-guide-to-spa-etiquette-what-to-know-before-your-first-visit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="spa"><![CDATA[spa]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[386]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Top 5 Spa Treatments to Melt Away Stress and Boost Wellness"]]></title>
+		<link>http://demo.imagewize.test/spa/top-5-spa-treatments-to-melt-away-stress-and-boost-wellness/</link>
+		<pubDate>Wed, 02 Apr 2025 07:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/?p=388</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":""} -->
+<p><strong>Introduction:</strong><br>At Beautify Spa, we understand that life can be stressful. That’s why we’ve curated a selection of treatments specifically designed to help you relax, recharge, and feel your best. Here are our top five picks for stress relief and overall well-being.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>1. Aromatherapy Massage</strong><br>Combining the power of essential oils with soothing massage techniques, this treatment eases muscle tension and calms the mind. Lavender and eucalyptus are particularly popular for promoting relaxation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>2. Hot Stone Therapy</strong><br>Smooth, heated stones placed on key points of your body help relieve deep muscle tension. The warmth penetrates your muscles, melting away stress and boosting circulation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>3. Deep Cleansing Facial</strong><br>Stress can take a toll on your skin, leading to breakouts or dullness. Our deep cleansing facial purifies and revitalizes, leaving you with a fresh, radiant glow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>4. Herbal Body Wrap</strong><br>Indulge in a detoxifying body wrap infused with natural herbs. This treatment helps remove impurities while hydrating and nourishing your skin, leaving it soft and supple.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>5. Reflexology</strong><br>Focusing on pressure points in your hands and feet, reflexology not only reduces stress but also promotes better sleep and overall wellness. It’s a perfect way to rejuvenate from head to toe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p><strong>Conclusion:</strong><br>Taking time to care for your mind and body is essential. Visit Beautify Spa to experience these rejuvenating treatments, and let us help you melt away the stress of daily life.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>388</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-02 07:19:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-02 07:19:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-02 07:19:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-02 07:19:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[top-5-spa-treatments-to-melt-away-stress-and-boost-wellness]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="spa"><![CDATA[spa]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[389]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[albert sans;italic;700;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/albert-sansitalic700100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Albert Sans\"","fontStyle":"italic","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6If3bRUz1r5t.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/albert-sans/albert-sans-700-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>233</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[albert-sansitalic700100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>211</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[lora;normal;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/loranormal400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Lora","fontStyle":"normal","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/0QI6MX1D_JOuGQbT0gvTJPa787weuyJDmKxemMeZ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/lora/lora-400-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>234</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[loranormal400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>212</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[lora;italic;400;100%;U+0-10FFFF]]></title>
 		<link>http://demo.imagewize.test/spa/loraitalic400100u0-10ffff/</link>
 		<pubDate>Sun, 30 Mar 2025 02:00:07 +0000</pubDate>
@@ -5648,54 +5718,6 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[work sans;italic;400;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/work-sansitalic400100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/work-sansitalic400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"\"Work Sans\"","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJpo3ZKyDSQQ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/work-sans/work-sans-400-italic.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>253</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[work-sansitalic400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>218</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[raleway;normal;700;100%;U+0-10FFFF]]></title>
-		<link>http://demo.imagewize.test/spa/ralewaynormal700100u0-10ffff/</link>
-		<pubDate>Sun, 30 Mar 2025 02:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://demo.imagewize.test/spa/ralewaynormal700100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Raleway","fontStyle":"normal","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCKNLA3JC9c.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/raleway/raleway-700-normal.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>254</wp:post_id>
-		<wp:post_date><![CDATA[2025-03-30 02:00:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-30 02:00:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ralewaynormal700100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>219</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>http://demo.imagewize.test/spa/navigation/</link>
 		<pubDate>Thu, 27 Mar 2025 08:36:17 +0000</pubDate>
@@ -6111,6 +6133,54 @@ Suggested use: Add one scoop (10g) to your favorite beverage once daily.]]></con
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[work sans;italic;400;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/work-sansitalic400100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/work-sansitalic400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"\"Work Sans\"","fontStyle":"italic","fontWeight":"400","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJpo3ZKyDSQQ.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/work-sans/work-sans-400-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>253</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[work-sansitalic400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>218</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[raleway;normal;700;100%;U+0-10FFFF]]></title>
+		<link>http://demo.imagewize.test/spa/ralewaynormal700100u0-10ffff/</link>
+		<pubDate>Sun, 30 Mar 2025 02:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://demo.imagewize.test/spa/ralewaynormal700100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"Raleway","fontStyle":"normal","fontWeight":"700","src":"http://demo.imagewize.test/app/uploads/sites/2/fonts/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCKNLA3JC9c.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/raleway/raleway-700-normal.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>254</wp:post_id>
+		<wp:post_date><![CDATA[2025-03-30 02:00:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-03-30 02:00:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-30 02:00:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ralewaynormal700100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>219</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
