@@ -4,7 +4,7 @@
  * Slug: spa-theme/overlapping-feature-columns
  * Description: A two-column layout with image and overlapping text block.
  * Categories: moiraine/features
- * Keywords: columns, image, text, feature, fitness, overlap
+ * Keywords: columns, image, text, feature, fitness, overlap, spa
  * Viewport Width: 1200
  * Block Types: core/columns
  * Inserter: true

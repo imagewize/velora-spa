@@ -4,7 +4,7 @@
  * Slug: spa-theme/two-column-review
  * Description: A two-column layout with text on the left and image on the right, designed for testimonials or reviews
  * Categories: moiraine/cards, moiraine/features
- * Keywords: review, testimonial, text, image, columns
+ * Keywords: review, testimonial, text, image, columns, spa
  * Viewport Width: 1200
  * Block Types: core/columns
  * Inserter: true

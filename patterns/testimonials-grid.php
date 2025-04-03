@@ -4,7 +4,7 @@
  * Slug: spa-theme/testimonials-grid
  * Description: A grid of customer testimonials for spa and wellness services
  * Categories: moiraine/testimonials
- * Keywords: testimonials, reviews, customers, grid
+ * Keywords: testimonials, reviews, customers, grid, spa
  * Viewport Width: 1280
  * Block Types: core/group
  * Inserter: true

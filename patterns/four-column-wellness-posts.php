@@ -4,7 +4,7 @@
  * Slug: spa-theme/four-column-wellness-posts
  * Description: A four-column grid displaying recent posts with portrait images.
  * Categories: moiraine/features, moiraine/posts
- * Keywords: posts, columns, grid, wellness
+ * Keywords: posts, columns, grid, wellness, spa
  * Viewport Width: 1400
  * Block Types: core/query
  * Inserter: true

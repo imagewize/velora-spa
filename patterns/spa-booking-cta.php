@@ -4,7 +4,7 @@
  * Slug: spa-theme/spa-booking-cta
  * Description: A full-width call to action for booking appointments and shopping products
  * Categories: moiraine/call-to-action
- * Keywords: cta, booking, appointment, shop, products
+ * Keywords: cta, booking, appointment, shop, products, spa
  * Viewport Width: 1280
  * Block Types: core/group
  * Inserter: true
