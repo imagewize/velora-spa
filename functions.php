@@ -15,27 +15,19 @@ function moiraine_child_enqueue_styles(): void {
  * Register pattern categories including parent theme categories.
  */
 function spa_theme_register_pattern_categories() {
-    // Register parent theme categories to ensure they exist
-    register_block_pattern_category(
-        'moiraine/features',
-        array('label' => __('Features', 'spa-theme'))
+    // Define all pattern categories in a single array
+    $pattern_categories = array(
+        'moiraine/features' => __('Features', 'spa-theme'),
+        'moiraine/posts' => __('Posts', 'spa-theme'),
+        'moiraine/call-to-action' => __('Call To Action', 'spa-theme'),
+        'moiraine/testimonials' => __('Testimonials', 'spa-theme'),
+        'moiraine/hero' => __('Hero', 'spa-theme'),
+        // You can easily add more categories here as needed
     );
     
-    register_block_pattern_category(
-        'moiraine/posts',
-        array('label' => __('Posts', 'spa-theme'))
-    );
-
-    register_block_pattern_category(
-        'moiraine/call-to-action',
-        array('label' => __('Call To Action', 'spa-theme'))
-    );
-
-    register_block_pattern_category(
-        'moiraine/testimonials',
-        array('label' => __('Testimonials', 'spa-theme'))
-    );
-    
-    // You can add more parent theme categories as needed
+    // Register all categories in a single loop
+    foreach ($pattern_categories as $category => $label) {
+        register_block_pattern_category($category, array('label' => $label));
+    }
 }
-add_action('init', 'spa_theme_register_pattern_categories', 5); 
+add_action('init', 'spa_theme_register_pattern_categories', 5);

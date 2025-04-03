@@ -91,6 +91,9 @@ The theme includes custom block patterns designed specifically for spa and welln
 - **Header with Top Bar and Centered Menu**: A header layout with social icons, utility bar and centered navigation
 - **Spa & Retreat Footer**: Footer with spa-focused navigation and social links
 
+#### Hero Patterns
+- **Spa Home Hero**: A hero section with an overlapping colored box on an image background, perfect for spa homepage introductions
+
 #### Content Patterns
 - **Four Column Wellness Posts**: Display wellness blog posts in a four-column layout
 - **Shop Overview Three Columns**: Display products in an elegant three-column layout
