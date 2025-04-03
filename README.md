@@ -81,21 +81,28 @@ The theme comes with these custom fonts already configured:
 
 These fonts are located in the `assets/fonts` directory and are already configured in the theme's style variation.
 
-### Adding Block Patterns
+### Block Patterns
 
 The theme includes custom block patterns designed specifically for spa and wellness websites:
 
-- **Four Column Wellness Posts** (`patterns/four-column-wellness-posts.php`): Display wellness blog posts in a four-column layout
-- **Header Top Bar with Centered Menu** (`patterns/header-top-bar-centered-menu.php`): A header layout with top utility bar and centered navigation
-- **Overlapping Feature Columns** (`patterns/overlapping-feature-columns.php`): Showcase services or features with visually overlapping columns
-- **Overlapping Feature Columns Reversed** (`patterns/overlapping-feature-columns-reversed.php`): Same as Overlapping Feature Columns but with reversed layout - text on left, image on right
-- **Overlapping Review** (`patterns/review-text-image-overlap.php`): A two-column review with image and overlapping text block
-- **Shop Overview Three Columns** (`patterns/shop-overview-three-columns.php`): Display products in an elegant three-column layout
-- **Spa Testimonials Grid** (`patterns/testimonials-grid.php`): A responsive grid of customer testimonials for spa and wellness services
-- **Two Column Feature** (`patterns/two-column-feature.php`): Highlight a service or feature in a two-column layout with image and text
-- **Two Column Review** (`patterns/two-column-review.php`): Display customer testimonials in a two-column layout
+#### Layout Patterns
+- **Header with Top Bar and Centered Menu**: A header layout with social icons, utility bar and centered navigation
+- **Spa & Retreat Footer**: Footer with spa-focused navigation and social links
 
-These patterns can be accessed in the WordPress editor by clicking the "+" button and navigating to the Patterns section.
+#### Content Patterns
+- **Four Column Wellness Posts**: Display wellness blog posts in a four-column layout
+- **Shop Overview Three Columns**: Display products in an elegant three-column layout
+- **Wellness Cover Highlight**: A cover block with overlay and centered content box highlighting wellness content
+- **Spa Booking Call to Action**: A full-width call to action for booking appointments and shopping products
+
+#### Feature & Testimonial Patterns
+- **Overlapping Feature Columns**: Showcase services or features with visually overlapping columns (standard and reversed layouts available)
+- **Two Column Feature**: Highlight a service or feature in a two-column layout with image and text
+- **Overlapping Review**: A two-column review with image and overlapping text block
+- **Spa Testimonials Grid**: A responsive grid of customer testimonials for spa and wellness services
+- **Two Column Review**: Display customer testimonials in a two-column layout
+
+These patterns can be accessed in the WordPress editor by clicking the "+" button and navigating to the Patterns section. All spa-specific patterns can be found by searching for "spa" in the pattern inserter.
 
 ### Custom Templates
 
