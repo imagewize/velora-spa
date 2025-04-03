@@ -4,7 +4,7 @@
  * Slug: spa-theme/shop-overview-three-columns
  * Description: Displays shop products in a three-column layout with a shop button
  * Categories: moiraine/features
- * Keywords: shop, products, columns, ecommerce
+ * Keywords: shop, products, columns, ecommerce, spa
  * Viewport Width: 1280
  * Block Types: core/columns
  * Post Types: page, wp_template

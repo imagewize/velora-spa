@@ -4,7 +4,7 @@
  * Slug: spa-theme/wellness-cover-highlight
  * Description: A cover block with overlay and centered content box highlighting wellness content.
  * Categories: moiraine/call-to-action
- * Keywords: cover, highlight, wellness, feature, call to action, cta
+ * Keywords: cover, highlight, wellness, feature, call to action, cta, spa
  * Viewport Width: 1200
  * Block Types: core/cover
  * Inserter: true

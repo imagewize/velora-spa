@@ -4,7 +4,7 @@
  * Slug: spa-theme/header-top-bar-centered-menu
  * Description: Header with social icons, centered logo, cart/login, and a centered menu below
  * Categories: header
- * Keywords: header, nav, social, logo, cart, login
+ * Keywords: header, nav, social, logo, cart, login, spa
  * Viewport Width: 1500
  * Block Types: core/template-part/header
  * Post Types: wp_template

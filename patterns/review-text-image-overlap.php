@@ -4,7 +4,7 @@
  * Slug: spa-theme/review-text-image-overlap
  * Description: A two-column review with image and overlapping text block.
  * Categories: moiraine/features
- * Keywords: columns, image, text, review, overlap
+ * Keywords: columns, image, text, review, overlap, spa
  * Viewport Width: 1200
  * Block Types: core/columns
  * Inserter: true

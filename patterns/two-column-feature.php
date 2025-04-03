@@ -4,7 +4,7 @@
  * Slug: spa-theme/two-column-feature
  * Description: A two-column layout with a landscape image on the left and text content on the right.
  * Categories: moiraine/features
- * Keywords: columns, image, text, feature, fitness
+ * Keywords: columns, image, text, feature, fitness, spa
  * Viewport Width: 1200
  * Block Types: core/columns
  * Inserter: true
