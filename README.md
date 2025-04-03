@@ -139,6 +139,8 @@ This theme includes images from the following photographers:
 - [Jernej Graj](https://unsplash.com/@jernejgraj?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/floating-woman-on-body-of-water-rlNibgIqi4o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Yonas Bekele](https://unsplash.com/@ybekele?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/woman-in-blue-denim-jacket-standing-on-sidewalk-during-daytime-B4NW2Fk3Bkk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 - [Jellybee](https://unsplash.com/@jellybee?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/kirkland-vitamin-c-1000-mg-dTCSkD-oLNE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- [Yury Kirillov](https://unsplash.com/@relievemassage?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-woman-getting-a-back-massage-at-a-spa-Y1JKxNFwZx4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      
 
 **NB** Some blog post images have been taken from Unsplash and have credits added below blogs content instead of here.
 
