@@ -35,6 +35,7 @@ For projects using Composer, you can install the theme with:
 
 ```bash
 composer require imagewize/spa-theme
+```
 
 ## Demo Content
 
