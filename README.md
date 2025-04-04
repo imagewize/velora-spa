@@ -25,9 +25,16 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 
 ## Installation
 
+### Standard Installation
 1. Download and install the [parent Moiraine theme](https://github.com/imagewize/moiraine)
 2. Upload the Spa & Retreat Child theme to your WordPress site
 3. Activate the Spa & Retreat Child theme from the WordPress admin panel
+
+### Composer Installation
+For projects using Composer, you can install the theme with:
+
+```bash
+composer require imagewize/spa-theme
 
 ## Demo Content
 
