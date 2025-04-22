@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Spa Booking Call to Action
- * Slug: spa-theme/spa-booking-cta
+ * Slug: velora-spa/spa-booking-cta
  * Description: A full-width call to action for booking appointments and shopping products
  * Categories: moiraine/call-to-action
  * Keywords: cta, booking, appointment, shop, products, spa

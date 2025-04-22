@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Spa Testimonials Grid
- * Slug: spa-theme/testimonials-grid
+ * Slug: velora-spa/testimonials-grid
  * Description: A grid of customer testimonials for spa and wellness services
  * Categories: moiraine/testimonials
  * Keywords: testimonials, reviews, customers, grid, spa

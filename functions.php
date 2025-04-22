@@ -17,11 +17,11 @@ function moiraine_child_enqueue_styles(): void {
 function spa_theme_register_pattern_categories() {
     // Define all pattern categories in a single array
     $pattern_categories = array(
-        'moiraine/features' => __('Features', 'spa-theme'),
-        'moiraine/posts' => __('Posts', 'spa-theme'),
-        'moiraine/call-to-action' => __('Call To Action', 'spa-theme'),
-        'moiraine/testimonials' => __('Testimonials', 'spa-theme'),
-        'moiraine/hero' => __('Hero', 'spa-theme'),
+        'moiraine/features' => __('Features', 'velora-spa'),
+        'moiraine/posts' => __('Posts', 'velora-spa'),
+        'moiraine/call-to-action' => __('Call To Action', 'velora-spa'),
+        'moiraine/testimonials' => __('Testimonials', 'velora-spa'),
+        'moiraine/hero' => __('Hero', 'velora-spa'),
         // You can easily add more categories here as needed
     );
     

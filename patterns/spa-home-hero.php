@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Spa Home Hero
- * Slug: spa-theme/spa-home-hero
+ * Slug: velora-spa/spa-home-hero
  * Description: A hero section with an overlapping colored box on an image background
  * Categories: moiraine/hero
  * Keywords: hero, homepage, image, overlay, spa, welcome
@@ -11,7 +11,7 @@
  */
 ?>
 
-<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"spa-theme/spa-home-hero","name":"Spa Home Hero"},"align":"full","className":"is-style-overlap-columns","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}},"backgroundColor":"tertiary"} -->
+<!-- wp:columns {"metadata":{"categories":["moiraine/features"],"patternName":"velora-spa/spa-home-hero","name":"Spa Home Hero"},"align":"full","className":"is-style-overlap-columns","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|medium"},"blockGap":{"top":"0","left":"0"}}},"backgroundColor":"tertiary"} -->
 <div class="wp-block-columns alignfull is-style-overlap-columns has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"60%"} -->
 <div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"sizeSlug":"large","className":"is-style-default"} -->
 <figure class="wp-block-image size-large is-style-default"><img src="<?php echo esc_url( get_theme_file_uri( 'assets/images/back-massage.jpg' ) ); ?>" alt="Back massage treatment"/></figure>

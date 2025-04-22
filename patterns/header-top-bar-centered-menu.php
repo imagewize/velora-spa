@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with Top Bar and Centered Menu
- * Slug: spa-theme/header-top-bar-centered-menu
+ * Slug: velora-spa/header-top-bar-centered-menu
  * Description: Header with social icons, centered logo, cart/login, and a centered menu below
  * Categories: header
  * Keywords: header, nav, social, logo, cart, login, spa
@@ -41,7 +41,7 @@
   
   <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"flex","orientation":"horizontal","justifyContent":"center"}} -->
   <div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small)">
-    <!-- wp:navigation {"ref":5} /-->
+      <!-- wp:navigation {"overlayMenu":"mobile","layout":{"type":"flex","justifyContent":"center"},"className":"mobile-centered-nav"} /-->
   </div>
   <!-- /wp:group -->
   

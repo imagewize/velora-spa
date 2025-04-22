@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Overlapping Feature Columns Reversed
- * Slug: spa-theme/overlapping-feature-columns-reversed
+ * Slug: velora-spa/overlapping-feature-columns-reversed
  * Description: A two-column layout with image and overlapping text block.
  * Categories: moiraine/features
  * Keywords: columns, image, text, feature, fitness, overlap, spa

@@ -1,12 +1,12 @@
-# Spa & Retreat Child Theme
+# Velora Spa & Retreat Child Theme
 
 A specialized child theme for the [Moiraine WordPress theme](https://github.com/imagewize/moiraine), providing customized styling, color palettes, and typography optimized for spa and wellness websites while maintaining the functionality of the parent theme.
 
-![Spa & Retreat Theme Preview](assets/images/home-page-screenshot.png)
+![Velora Spa & Retreat Theme Preview](assets/images/home-page-screenshot.png)
 
 ## Description
 
-The Spa & Retreat child theme extends the Moiraine theme with custom colors and styles specifically designed for spas, wellness centers, and retreat businesses. It's crafted to give you a serene, calming foundation for creating a distinctive wellness-focused website while leveraging all the features of the parent Moiraine theme.
+The Velora Spa & Retreat child theme extends the Moiraine theme with custom colors and styles specifically designed for spas, wellness centers, and retreat businesses. It's crafted to give you a serene, calming foundation for creating a distinctive wellness-focused website while leveraging all the features of the parent Moiraine theme.
 
 ## Features
 
@@ -34,7 +34,7 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 For projects using Composer, you can install the theme with:
 
 ```bash
-composer require imagewize/spa-theme
+composer require imagewize/velora-spa
 ```
 
 ## Demo Content

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Wellness Cover Highlight
- * Slug: spa-theme/wellness-cover-highlight
+ * Slug: velora-spa/wellness-cover-highlight
  * Description: A cover block with overlay and centered content box highlighting wellness content.
  * Categories: moiraine/call-to-action
  * Keywords: cover, highlight, wellness, feature, call to action, cta, spa
