@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with Top Bar and Centered Menu
- * Slug: spa-theme/header-top-bar-centered-menu
+ * Slug: velora-spa/header-top-bar-centered-menu
  * Description: Header with social icons, centered logo, cart/login, and a centered menu below
  * Categories: header
  * Keywords: header, nav, social, logo, cart, login, spa

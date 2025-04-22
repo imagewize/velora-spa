@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Four Column Wellness Posts
- * Slug: spa-theme/four-column-wellness-posts
+ * Slug: velora-spa/four-column-wellness-posts
  * Description: A four-column grid displaying recent posts with portrait images.
  * Categories: moiraine/features, moiraine/posts
  * Keywords: posts, columns, grid, wellness, spa

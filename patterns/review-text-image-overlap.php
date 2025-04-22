@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Overlapping Review
- * Slug: spa-theme/review-text-image-overlap
+ * Slug: velora-spa/review-text-image-overlap
  * Description: A two-column review with image and overlapping text block.
  * Categories: moiraine/features
  * Keywords: columns, image, text, review, overlap, spa

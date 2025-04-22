@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Overlapping Feature Columns
- * Slug: spa-theme/overlapping-feature-columns
+ * Slug: velora-spa/overlapping-feature-columns
  * Description: A two-column layout with image and overlapping text block.
  * Categories: moiraine/features
  * Keywords: columns, image, text, feature, fitness, overlap, spa

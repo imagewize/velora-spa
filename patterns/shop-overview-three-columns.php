@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Shop Overview Three Columns
- * Slug: spa-theme/shop-overview-three-columns
+ * Slug: velora-spa/shop-overview-three-columns
  * Description: Displays shop products in a three-column layout with a shop button
  * Categories: moiraine/features
  * Keywords: shop, products, columns, ecommerce, spa

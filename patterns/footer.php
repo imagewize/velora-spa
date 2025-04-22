@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Spa & Retreat Footer
- * Slug: spa-theme/spa-footer
+ * Slug: velora-spa/spa-footer
  * Description: Footer with spa-focused navigation and social links
  * Categories: footer
  * Keywords: footer, spa, navigation, social
