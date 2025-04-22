@@ -64,6 +64,10 @@ Text Domain:  velora-spa
 }
 
 @media (max-width: 781px) {
+     /* Add a specific class to your site-title container in the editor if possible */
+     .wp-block-site-title {
+        padding-left: 3rem;
+    }
     /* Center the hamburger icon */
     .mobile-centered-nav .wp-block-navigation__responsive-container-open {
       margin: 0 auto;
