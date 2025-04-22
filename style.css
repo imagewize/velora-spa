@@ -5,7 +5,7 @@ Description:  A child theme for Moiraine.
 Author:       Imagewize
 Author URI:   https://imagewize.com
 Template:     moiraine
-Version:      2.0.0
+Version:      2.0.1
 License:      GNU General Public License v2 or later
 License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 Tags:         Tags: blog, portfolio, entertainment
@@ -64,6 +64,10 @@ Text Domain:  velora-spa
 }
 
 @media (max-width: 781px) {
+     /* Add a specific class to your site-title container in the editor if possible */
+     .wp-block-site-title {
+        padding-left: 2.8rem;
+    }
     /* Center the hamburger icon */
     .mobile-centered-nav .wp-block-navigation__responsive-container-open {
       margin: 0 auto;
