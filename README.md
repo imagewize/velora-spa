@@ -34,7 +34,7 @@ The Spa & Retreat child theme extends the Moiraine theme with custom colors and 
 For projects using Composer, you can install the theme with:
 
 ```bash
-composer require imagewize/spa-theme
+composer require imagewize/velora-spa
 ```
 
 ## Demo Content

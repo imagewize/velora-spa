@@ -62,3 +62,23 @@ Text Domain:  spa-theme
     filter: brightness(0) sepia(100%) saturate(500%) hue-rotate(175deg);
     transform: scale(1.1);
 }
+
+@media (max-width: 781px) {
+    /* Center the hamburger icon */
+    .mobile-centered-nav .wp-block-navigation__responsive-container-open {
+      margin: 0 auto;
+    }
+    
+    /* Make the navigation container take full width in mobile */
+    .mobile-centered-nav {
+      width: 100%;
+      justify-content: center;
+    }
+    
+    /* Align the button to match the site title's position */
+    .mobile-centered-nav .wp-block-navigation__responsive-container-open {
+      position: relative;
+      left: 0;
+      transform: translateX(0);
+    }
+  }
